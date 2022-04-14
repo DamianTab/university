@@ -43,7 +43,7 @@
 <br/>
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+This is one aggregated repository for all less relevant university projects. Each project has its own folder with readme.
 
 <br/>
 
