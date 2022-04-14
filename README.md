@@ -18,7 +18,7 @@
 </p>
 
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">University Projects</h3>
 
 <div align="center">
   
@@ -30,7 +30,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
     <br> 
 </p>
 
