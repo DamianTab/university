@@ -1,0 +1,2470 @@
+2020-12-16 17:58:38,482.482  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 17:58:38,482.482  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 17:59:28,664.664  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 17:59:28,665.665  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 17:59:46,191.191  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 17:59:46,191.191  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:00:53,306.306  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:00:53,306.306  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:14:50,513.513  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:14:50,513.513  | VALIDATOR  | INFO | zerowa_dlugosc-instance-10.txt
+2020-12-16 18:14:50,513.513  | VALIDATOR  | ERROR | ERROR ! One of task's length is 0 !!!
+2020-12-16 18:15:01,382.382  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:15:01,382.382  | VALIDATOR  | INFO | zerowa_dlugosc-instance-10.txt
+2020-12-16 18:15:01,382.382  | VALIDATOR  | ERROR | ERROR ! One of task's length is 0 !!!
+2020-12-16 18:15:03,245.245  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:15:03,245.245  | VALIDATOR  | INFO | zerowa_dlugosc-instance-10.txt
+2020-12-16 18:15:03,245.245  | VALIDATOR  | ERROR | ERROR ! One of task's length is 0 !!!
+2020-12-16 18:15:23,333.333  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:15:23,333.333  | VALIDATOR  | INFO | zerowa_waga-instance-10.txt
+2020-12-16 18:15:23,333.333  | VALIDATOR  | ERROR | ERROR ! Task WEIGHT is 0 !!!
+2020-12-16 18:16:02,112.112  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:16:02,113.113  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:16:02,113.113  | VALIDATOR  | ERROR | ERROR ! The task amount in result file is invalid.
+2020-12-16 18:16:24,702.702  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:16:24,702.702  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:16:24,702.702  | VALIDATOR  | ERROR | ERROR ! There are non unique tasks in result file.
+2020-12-16 18:53:40,372.372  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:53:40,373.373  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:53:44,152.152  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:53:44,152.152  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:54:56,962.962  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:54:56,962.962  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:54:56,962.962  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:55:01,413.413  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:01,414.414  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:01,432.432  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:55:02,196.196  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:02,196.196  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:02,196.196  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:55:04,928.928  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:04,929.929  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:04,929.929  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:55:14,025.25  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:14,025.25  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:14,026.26  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:55:31,044.44  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:31,044.44  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:31,044.44  | VALIDATOR  | INFO | CORRECT  Actual value: 96.61
+2020-12-16 18:55:33,133.133  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:33,134.134  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:33,134.134  | VALIDATOR  | INFO | CORRECT  Actual value: 96.61
+2020-12-16 18:55:34,410.410  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:34,410.410  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:34,410.410  | VALIDATOR  | INFO | CORRECT  Actual value: 96.61
+2020-12-16 18:55:35,177.177  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:55:35,177.177  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:55:35,177.177  | VALIDATOR  | INFO | CORRECT  Actual value: 96.61
+2020-12-16 18:56:07,120.120  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:56:07,120.120  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:56:07,120.120  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:56:09,872.872  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:56:09,872.872  | VALIDATOR  | INFO | 136819-instance-10.txt
+2020-12-16 18:56:09,872.872  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 96.61 . Actual value: 0.0
+2020-12-16 18:58:25,313.313  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:25,313.313  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 18:58:25,313.313  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 380.85 . Actual value: 0.0
+2020-12-16 18:58:25,486.486  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:25,487.487  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 18:58:25,487.487  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 497.44 . Actual value: 0.0
+2020-12-16 18:58:25,647.647  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:25,647.647  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 18:58:25,648.648  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 580.75 . Actual value: 0.0
+2020-12-16 18:58:25,837.837  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:25,837.837  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 18:58:25,839.839  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 751.84 . Actual value: 0.0
+2020-12-16 18:58:26,006.6  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,007.7  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 18:58:26,008.8  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1069.99 . Actual value: 0.0
+2020-12-16 18:58:26,201.201  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,201.201  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 18:58:26,204.204  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1103.48 . Actual value: 0.0
+2020-12-16 18:58:26,381.381  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,381.381  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 18:58:26,383.383  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1269.13 . Actual value: 0.0
+2020-12-16 18:58:26,592.592  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,592.592  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 18:58:26,595.595  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1503.45 . Actual value: 0.0
+2020-12-16 18:58:26,775.775  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,775.775  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 18:58:26,775.775  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 221.82 . Actual value: 0.0
+2020-12-16 18:58:26,961.961  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 18:58:26,961.961  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 18:58:26,965.965  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1617.66 . Actual value: 0.0
+2020-12-16 19:11:23,299.299  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:23,299.299  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:11:23,299.299  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 315.86 . Actual value: 0.0
+2020-12-16 19:11:23,486.486  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:23,486.486  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:11:23,487.487  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 559.67 . Actual value: 0.0
+2020-12-16 19:11:23,651.651  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:23,651.651  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:11:23,652.652  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 549.99 . Actual value: 0.0
+2020-12-16 19:11:23,834.834  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:23,835.835  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:11:23,836.836  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1016.39 . Actual value: 0.0
+2020-12-16 19:11:24,017.17  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,018.18  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:11:24,019.19  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1036.28 . Actual value: 0.0
+2020-12-16 19:11:24,230.230  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,230.230  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:11:24,233.233  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1273.88 . Actual value: 0.0
+2020-12-16 19:11:24,421.421  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,421.421  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:11:24,424.424  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1484.55 . Actual value: 0.0
+2020-12-16 19:11:24,604.604  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,604.604  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:11:24,607.607  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1430.91 . Actual value: 0.0
+2020-12-16 19:11:24,791.791  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,791.791  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:11:24,791.791  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 191.1 . Actual value: 0.0
+2020-12-16 19:11:24,994.994  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:24,994.994  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:11:24,998.998  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1686.99 . Actual value: 0.0
+2020-12-16 19:11:44,591.591  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:44,592.592  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:11:44,593.593  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 358.27 . Actual value: 0.0
+2020-12-16 19:11:44,793.793  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:44,793.793  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:11:44,794.794  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 484.69 . Actual value: 0.0
+2020-12-16 19:11:44,973.973  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:44,973.973  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:11:44,974.974  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 732.32 . Actual value: 0.0
+2020-12-16 19:11:45,166.166  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:45,166.166  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:11:45,167.167  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1002.34 . Actual value: 0.0
+2020-12-16 19:11:45,347.347  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:45,347.347  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:11:45,349.349  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 969.74 . Actual value: 0.0
+2020-12-16 19:11:45,538.538  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:45,539.539  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:11:45,541.541  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1488.37 . Actual value: 0.0
+2020-12-16 19:11:45,713.713  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:45,713.713  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:11:45,715.715  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1294.92 . Actual value: 0.0
+2020-12-16 19:11:45,947.947  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:45,947.947  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:11:45,950.950  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1782.99 . Actual value: 0.0
+2020-12-16 19:11:46,124.124  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:46,124.124  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:11:46,124.124  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 228.34 . Actual value: 0.0
+2020-12-16 19:11:46,362.362  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:11:46,362.362  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:11:46,366.366  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1841.09 . Actual value: 0.0
+2020-12-16 19:12:16,568.568  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:16,568.568  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:12:16,569.569  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 275.26 . Actual value: 0.0
+2020-12-16 19:12:16,751.751  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:16,751.751  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:12:16,752.752  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 519.68 . Actual value: 0.0
+2020-12-16 19:12:16,919.919  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:16,919.919  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:12:16,920.920  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 761.49 . Actual value: 0.0
+2020-12-16 19:12:17,136.136  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:17,136.136  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:12:17,137.137  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 753.87 . Actual value: 0.0
+2020-12-16 19:12:17,324.324  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:17,325.325  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:12:17,326.326  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1023.3 . Actual value: 0.0
+2020-12-16 19:12:17,512.512  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:17,512.512  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:12:17,514.514  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 992.32 . Actual value: 0.0
+2020-12-16 19:12:17,790.790  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:17,790.790  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:12:17,793.793  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1229.57 . Actual value: 0.0
+2020-12-16 19:12:17,990.990  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:17,990.990  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:12:17,993.993  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1530.16 . Actual value: 0.0
+2020-12-16 19:12:18,200.200  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:18,201.201  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:12:18,201.201  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 252.73 . Actual value: 0.0
+2020-12-16 19:12:18,411.411  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:18,411.411  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:12:18,415.415  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1943.61 . Actual value: 0.0
+2020-12-16 19:12:37,253.253  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:37,253.253  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:12:37,253.253  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 363.9 . Actual value: 0.0
+2020-12-16 19:12:37,432.432  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:37,432.432  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:12:37,433.433  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 498.69 . Actual value: 0.0
+2020-12-16 19:12:37,604.604  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:37,604.604  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:12:37,605.605  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 713.49 . Actual value: 0.0
+2020-12-16 19:12:37,790.790  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:37,790.790  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:12:37,792.792  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 903.15 . Actual value: 0.0
+2020-12-16 19:12:37,963.963  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:37,964.964  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:12:37,965.965  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1014.86 . Actual value: 0.0
+2020-12-16 19:12:38,185.185  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:38,185.185  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:12:38,187.187  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1271.29 . Actual value: 0.0
+2020-12-16 19:12:38,360.360  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:38,361.361  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:12:38,363.363  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1377.0 . Actual value: 0.0
+2020-12-16 19:12:38,608.608  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:38,608.608  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:12:38,611.611  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1655.71 . Actual value: 0.0
+2020-12-16 19:12:38,779.779  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:38,779.779  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:12:38,779.779  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 252.58 . Actual value: 0.0
+2020-12-16 19:12:39,063.63  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:39,063.63  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:12:39,068.68  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1549.93 . Actual value: 0.0
+2020-12-16 19:12:52,803.803  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:52,803.803  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:12:52,803.803  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 279.11 . Actual value: 0.0
+2020-12-16 19:12:52,984.984  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:52,985.985  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:12:52,985.985  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 517.89 . Actual value: 0.0
+2020-12-16 19:12:53,154.154  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:53,154.154  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:12:53,155.155  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 861.98 . Actual value: 0.0
+2020-12-16 19:12:53,345.345  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:53,345.345  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:12:53,347.347  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 777.79 . Actual value: 0.0
+2020-12-16 19:12:53,529.529  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:53,529.529  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:12:53,530.530  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 732.02 . Actual value: 0.0
+2020-12-16 19:12:53,728.728  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:53,728.728  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:12:53,731.731  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1070.14 . Actual value: 0.0
+2020-12-16 19:12:53,929.929  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:53,929.929  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:12:53,932.932  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1343.95 . Actual value: 0.0
+2020-12-16 19:12:54,106.106  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:54,106.106  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:12:54,109.109  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1484.44 . Actual value: 0.0
+2020-12-16 19:12:54,302.302  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:54,302.302  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:12:54,303.303  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 156.19 . Actual value: 0.0
+2020-12-16 19:12:54,487.487  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:12:54,487.487  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:12:54,492.492  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1773.49 . Actual value: 0.0
+2020-12-16 19:13:26,963.963  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:26,963.963  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:13:26,964.964  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 478.96 . Actual value: 0.0
+2020-12-16 19:13:27,200.200  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:27,200.200  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:13:27,201.201  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 578.38 . Actual value: 0.0
+2020-12-16 19:13:27,379.379  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:27,379.379  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:13:27,380.380  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 776.01 . Actual value: 0.0
+2020-12-16 19:13:27,627.627  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:27,627.627  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:13:27,628.628  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 907.34 . Actual value: 0.0
+2020-12-16 19:13:27,805.805  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:27,805.805  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:13:27,807.807  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1029.95 . Actual value: 0.0
+2020-12-16 19:13:27,991.991  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:27,991.991  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:13:27,993.993  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1317.38 . Actual value: 0.0
+2020-12-16 19:13:28,180.180  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:28,180.180  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:13:28,183.183  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1534.93 . Actual value: 0.0
+2020-12-16 19:13:28,426.426  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:28,426.426  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:13:28,430.430  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1631.01 . Actual value: 0.0
+2020-12-16 19:13:28,604.604  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:28,604.604  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:13:28,604.604  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 335.05 . Actual value: 0.0
+2020-12-16 19:13:28,801.801  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:28,801.801  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:13:28,805.805  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1687.7 . Actual value: 0.0
+2020-12-16 19:13:46,070.70  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,070.70  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:13:46,071.71  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 312.89 . Actual value: 0.0
+2020-12-16 19:13:46,256.256  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,256.256  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:13:46,257.257  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 531.62 . Actual value: 0.0
+2020-12-16 19:13:46,441.441  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,441.441  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:13:46,442.442  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 692.18 . Actual value: 0.0
+2020-12-16 19:13:46,614.614  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,615.615  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:13:46,616.616  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 906.16 . Actual value: 0.0
+2020-12-16 19:13:46,802.802  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,802.802  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:13:46,804.804  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 992.7 . Actual value: 0.0
+2020-12-16 19:13:46,970.970  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:46,970.970  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:13:46,972.972  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1324.12 . Actual value: 0.0
+2020-12-16 19:13:47,155.155  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:47,155.155  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:13:47,158.158  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1284.65 . Actual value: 0.0
+2020-12-16 19:13:47,342.342  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:47,343.343  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:13:47,345.345  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1593.19 . Actual value: 0.0
+2020-12-16 19:13:47,519.519  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:47,519.519  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:13:47,519.519  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 174.63 . Actual value: 0.0
+2020-12-16 19:13:47,716.716  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:13:47,716.716  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:13:47,721.721  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1602.57 . Actual value: 0.0
+2020-12-16 19:14:16,241.241  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:16,242.242  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:14:16,242.242  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 395.64 . Actual value: 0.0
+2020-12-16 19:14:16,424.424  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:16,424.424  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:14:16,425.425  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 426.36 . Actual value: 0.0
+2020-12-16 19:14:16,592.592  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:16,592.592  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:14:16,593.593  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 661.78 . Actual value: 0.0
+2020-12-16 19:14:16,871.871  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:16,871.871  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:14:16,872.872  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 673.77 . Actual value: 0.0
+2020-12-16 19:14:17,043.43  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:17,043.43  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:14:17,045.45  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1180.83 . Actual value: 0.0
+2020-12-16 19:14:17,253.253  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:17,253.253  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:14:17,255.255  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1160.7 . Actual value: 0.0
+2020-12-16 19:14:17,429.429  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:17,429.429  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:14:17,431.431  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1262.21 . Actual value: 0.0
+2020-12-16 19:14:17,677.677  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:17,678.678  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:14:17,681.681  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1357.94 . Actual value: 0.0
+2020-12-16 19:14:17,854.854  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:17,854.854  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:14:17,855.855  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 158.86 . Actual value: 0.0
+2020-12-16 19:14:18,051.51  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:18,051.51  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:14:18,056.56  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1678.19 . Actual value: 0.0
+2020-12-16 19:14:31,561.561  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:31,561.561  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 19:14:31,561.561  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 348.3 . Actual value: 0.0
+2020-12-16 19:14:31,748.748  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:31,748.748  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 19:14:31,749.749  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 409.06 . Actual value: 0.0
+2020-12-16 19:14:31,915.915  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:31,915.915  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 19:14:31,916.916  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 601.48 . Actual value: 0.0
+2020-12-16 19:14:32,119.119  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:32,119.119  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 19:14:32,121.121  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 843.02 . Actual value: 0.0
+2020-12-16 19:14:32,301.301  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:32,301.301  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 19:14:32,303.303  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1108.02 . Actual value: 0.0
+2020-12-16 19:14:32,551.551  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:32,552.552  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 19:14:32,554.554  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1201.84 . Actual value: 0.0
+2020-12-16 19:14:32,728.728  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:32,728.728  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 19:14:32,730.730  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1350.29 . Actual value: 0.0
+2020-12-16 19:14:32,923.923  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:32,923.923  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 19:14:32,926.926  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1613.4 . Actual value: 0.0
+2020-12-16 19:14:33,114.114  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:33,114.114  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 19:14:33,115.115  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 222.23 . Actual value: 0.0
+2020-12-16 19:14:33,390.390  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 19:14:33,390.390  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 19:14:33,394.394  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1708.01 . Actual value: 0.0
+2020-12-16 22:06:57,207.207  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:57,208.208  | VALIDATOR  | INFO | 136790-instance-100.txt
+2020-12-16 22:06:57,208.208  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 373.75 . Actual value: 0.0
+2020-12-16 22:06:57,389.389  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:57,390.390  | VALIDATOR  | INFO | 136790-instance-150.txt
+2020-12-16 22:06:57,390.390  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 379.41 . Actual value: 0.0
+2020-12-16 22:06:57,551.551  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:57,551.551  | VALIDATOR  | INFO | 136790-instance-200.txt
+2020-12-16 22:06:57,552.552  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 490.72 . Actual value: 0.0
+2020-12-16 22:06:57,709.709  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:57,709.709  | VALIDATOR  | INFO | 136790-instance-250.txt
+2020-12-16 22:06:57,711.711  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 652.55 . Actual value: 0.0
+2020-12-16 22:06:57,963.963  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:57,963.963  | VALIDATOR  | INFO | 136790-instance-300.txt
+2020-12-16 22:06:57,965.965  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 795.86 . Actual value: 0.0
+2020-12-16 22:06:58,173.173  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:58,173.173  | VALIDATOR  | INFO | 136790-instance-350.txt
+2020-12-16 22:06:58,175.175  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 819.81 . Actual value: 0.0
+2020-12-16 22:06:58,428.428  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:58,429.429  | VALIDATOR  | INFO | 136790-instance-400.txt
+2020-12-16 22:06:58,433.433  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 946.55 . Actual value: 0.0
+2020-12-16 22:06:58,667.667  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:58,667.667  | VALIDATOR  | INFO | 136790-instance-450.txt
+2020-12-16 22:06:58,670.670  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1213.43 . Actual value: 0.0
+2020-12-16 22:06:58,906.906  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:58,906.906  | VALIDATOR  | INFO | 136790-instance-50.txt
+2020-12-16 22:06:58,907.907  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 162.94 . Actual value: 0.0
+2020-12-16 22:06:59,126.126  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:59,126.126  | VALIDATOR  | INFO | 136790-instance-500.txt
+2020-12-16 22:06:59,134.134  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1267.51 . Actual value: 0.0
+2020-12-16 22:06:59,318.318  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:59,318.318  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 22:06:59,318.318  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 348.3 . Actual value: 0.0
+2020-12-16 22:06:59,574.574  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:59,574.574  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 22:06:59,575.575  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 409.06 . Actual value: 0.0
+2020-12-16 22:06:59,746.746  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:59,746.746  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 22:06:59,747.747  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 601.48 . Actual value: 0.0
+2020-12-16 22:06:59,935.935  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:06:59,935.935  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 22:06:59,936.936  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 843.02 . Actual value: 0.0
+2020-12-16 22:07:00,178.178  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:00,178.178  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 22:07:00,180.180  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1108.02 . Actual value: 0.0
+2020-12-16 22:07:00,349.349  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:00,349.349  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 22:07:00,351.351  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1201.84 . Actual value: 0.0
+2020-12-16 22:07:00,517.517  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:00,517.517  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 22:07:00,519.519  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1350.29 . Actual value: 0.0
+2020-12-16 22:07:00,679.679  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:00,679.679  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 22:07:00,682.682  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1613.4 . Actual value: 0.0
+2020-12-16 22:07:00,852.852  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:00,852.852  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 22:07:00,852.852  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 222.23 . Actual value: 0.0
+2020-12-16 22:07:01,019.19  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:07:01,019.19  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 22:07:01,022.22  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1708.01 . Actual value: 0.0
+2020-12-16 22:28:57,444.444  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:57,444.444  | VALIDATOR  | INFO | 136711-instance-100.txt
+2020-12-16 22:28:57,444.444  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 217.18 . Actual value: 0.0
+2020-12-16 22:28:57,626.626  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:57,626.626  | VALIDATOR  | INFO | 136711-instance-150.txt
+2020-12-16 22:28:57,627.627  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 304.75 . Actual value: 0.0
+2020-12-16 22:28:57,810.810  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:57,810.810  | VALIDATOR  | INFO | 136711-instance-200.txt
+2020-12-16 22:28:57,811.811  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 443.91 . Actual value: 0.0
+2020-12-16 22:28:57,975.975  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:57,975.975  | VALIDATOR  | INFO | 136711-instance-250.txt
+2020-12-16 22:28:57,976.976  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 487.0 . Actual value: 0.0
+2020-12-16 22:28:58,177.177  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:58,177.177  | VALIDATOR  | INFO | 136711-instance-300.txt
+2020-12-16 22:28:58,179.179  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 642.8 . Actual value: 0.0
+2020-12-16 22:28:58,352.352  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:58,352.352  | VALIDATOR  | INFO | 136711-instance-350.txt
+2020-12-16 22:28:58,354.354  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 673.33 . Actual value: 0.0
+2020-12-16 22:28:58,526.526  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:58,527.527  | VALIDATOR  | INFO | 136711-instance-400.txt
+2020-12-16 22:28:58,529.529  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 825.46 . Actual value: 0.0
+2020-12-16 22:28:58,690.690  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:58,690.690  | VALIDATOR  | INFO | 136711-instance-450.txt
+2020-12-16 22:28:58,693.693  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 963.26 . Actual value: 0.0
+2020-12-16 22:28:58,865.865  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:58,866.866  | VALIDATOR  | INFO | 136711-instance-50.txt
+2020-12-16 22:28:58,866.866  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 111.86 . Actual value: 0.0
+2020-12-16 22:28:59,027.27  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:59,027.27  | VALIDATOR  | INFO | 136711-instance-500.txt
+2020-12-16 22:28:59,031.31  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1054.28 . Actual value: 0.0
+2020-12-16 22:28:59,293.293  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:59,293.293  | VALIDATOR  | INFO | 136790-instance-100.txt
+2020-12-16 22:28:59,294.294  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 373.75 . Actual value: 0.0
+2020-12-16 22:28:59,464.464  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:59,464.464  | VALIDATOR  | INFO | 136790-instance-150.txt
+2020-12-16 22:28:59,465.465  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 379.41 . Actual value: 0.0
+2020-12-16 22:28:59,662.662  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:59,662.662  | VALIDATOR  | INFO | 136790-instance-200.txt
+2020-12-16 22:28:59,663.663  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 490.72 . Actual value: 0.0
+2020-12-16 22:28:59,825.825  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:28:59,825.825  | VALIDATOR  | INFO | 136790-instance-250.txt
+2020-12-16 22:28:59,826.826  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 652.55 . Actual value: 0.0
+2020-12-16 22:29:00,009.9  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,009.9  | VALIDATOR  | INFO | 136790-instance-300.txt
+2020-12-16 22:29:00,011.11  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 795.86 . Actual value: 0.0
+2020-12-16 22:29:00,181.181  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,182.182  | VALIDATOR  | INFO | 136790-instance-350.txt
+2020-12-16 22:29:00,184.184  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 819.81 . Actual value: 0.0
+2020-12-16 22:29:00,359.359  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,360.360  | VALIDATOR  | INFO | 136790-instance-400.txt
+2020-12-16 22:29:00,362.362  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 946.55 . Actual value: 0.0
+2020-12-16 22:29:00,533.533  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,533.533  | VALIDATOR  | INFO | 136790-instance-450.txt
+2020-12-16 22:29:00,536.536  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1213.43 . Actual value: 0.0
+2020-12-16 22:29:00,730.730  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,730.730  | VALIDATOR  | INFO | 136790-instance-50.txt
+2020-12-16 22:29:00,730.730  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 162.94 . Actual value: 0.0
+2020-12-16 22:29:00,917.917  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:00,918.918  | VALIDATOR  | INFO | 136790-instance-500.txt
+2020-12-16 22:29:00,922.922  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1267.51 . Actual value: 0.0
+2020-12-16 22:29:01,154.154  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:01,155.155  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-16 22:29:01,155.155  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 348.3 . Actual value: 0.0
+2020-12-16 22:29:01,368.368  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:01,368.368  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-16 22:29:01,369.369  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 409.06 . Actual value: 0.0
+2020-12-16 22:29:01,552.552  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:01,552.552  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-16 22:29:01,553.553  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 601.48 . Actual value: 0.0
+2020-12-16 22:29:01,766.766  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:01,766.766  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-16 22:29:01,768.768  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 843.02 . Actual value: 0.0
+2020-12-16 22:29:02,059.59  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:02,059.59  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-16 22:29:02,062.62  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1108.02 . Actual value: 0.0
+2020-12-16 22:29:02,340.340  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:02,340.340  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-16 22:29:02,342.342  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1201.84 . Actual value: 0.0
+2020-12-16 22:29:02,592.592  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:02,593.593  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-16 22:29:02,596.596  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1350.29 . Actual value: 0.0
+2020-12-16 22:29:02,907.907  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:02,907.907  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-16 22:29:02,913.913  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1613.4 . Actual value: 0.0
+2020-12-16 22:29:03,218.218  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:03,219.219  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-16 22:29:03,219.219  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 222.23 . Actual value: 0.0
+2020-12-16 22:29:03,513.513  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-16 22:29:03,513.513  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-16 22:29:03,518.518  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1708.01 . Actual value: 0.0
+2020-12-17 11:46:30,799.799  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:30,799.799  | VALIDATOR  | INFO | 136819-instance-100.txt
+2020-12-17 11:46:30,801.801  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 348.3 . Actual value: 0.0
+2020-12-17 11:46:31,008.8  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:31,008.8  | VALIDATOR  | INFO | 136819-instance-150.txt
+2020-12-17 11:46:31,011.11  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 409.06 . Actual value: 0.0
+2020-12-17 11:46:31,233.233  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:31,233.233  | VALIDATOR  | INFO | 136819-instance-200.txt
+2020-12-17 11:46:31,235.235  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 601.48 . Actual value: 0.0
+2020-12-17 11:46:31,551.551  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:31,551.551  | VALIDATOR  | INFO | 136819-instance-250.txt
+2020-12-17 11:46:31,555.555  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 843.02 . Actual value: 0.0
+2020-12-17 11:46:31,862.862  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:31,863.863  | VALIDATOR  | INFO | 136819-instance-300.txt
+2020-12-17 11:46:31,879.879  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1108.02 . Actual value: 0.0
+2020-12-17 11:46:32,269.269  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:32,270.270  | VALIDATOR  | INFO | 136819-instance-350.txt
+2020-12-17 11:46:32,276.276  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1201.84 . Actual value: 0.0
+2020-12-17 11:46:32,695.695  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:32,696.696  | VALIDATOR  | INFO | 136819-instance-400.txt
+2020-12-17 11:46:32,703.703  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1350.29 . Actual value: 0.0
+2020-12-17 11:46:33,155.155  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:33,155.155  | VALIDATOR  | INFO | 136819-instance-450.txt
+2020-12-17 11:46:33,163.163  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1613.4 . Actual value: 0.0
+2020-12-17 11:46:33,526.526  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:33,527.527  | VALIDATOR  | INFO | 136819-instance-50.txt
+2020-12-17 11:46:33,529.529  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 222.23 . Actual value: 0.0
+2020-12-17 11:46:33,896.896  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:46:33,896.896  | VALIDATOR  | INFO | 136819-instance-500.txt
+2020-12-17 11:46:33,907.907  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1708.01 . Actual value: 0.0
+2020-12-17 11:56:33,610.610  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:33,611.611  | VALIDATOR  | INFO | 136582-instance-100.txt
+2020-12-17 11:56:33,611.611  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 536.13 . Actual value: 0.0
+2020-12-17 11:56:33,802.802  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:33,803.803  | VALIDATOR  | INFO | 136582-instance-150.txt
+2020-12-17 11:56:33,803.803  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 782.14 . Actual value: 0.0
+2020-12-17 11:56:33,997.997  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:33,997.997  | VALIDATOR  | INFO | 136582-instance-200.txt
+2020-12-17 11:56:33,998.998  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1179.45 . Actual value: 0.0
+2020-12-17 11:56:34,226.226  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:34,226.226  | VALIDATOR  | INFO | 136582-instance-250.txt
+2020-12-17 11:56:34,228.228  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1429.7 . Actual value: 0.0
+2020-12-17 11:56:34,478.478  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:34,479.479  | VALIDATOR  | INFO | 136582-instance-300.txt
+2020-12-17 11:56:34,483.483  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1797.97 . Actual value: 0.0
+2020-12-17 11:56:34,731.731  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:34,731.731  | VALIDATOR  | INFO | 136582-instance-350.txt
+2020-12-17 11:56:34,734.734  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1897.59 . Actual value: 0.0
+2020-12-17 11:56:35,045.45  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:35,045.45  | VALIDATOR  | INFO | 136582-instance-400.txt
+2020-12-17 11:56:35,049.49  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2306.11 . Actual value: 0.0
+2020-12-17 11:56:35,263.263  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:35,263.263  | VALIDATOR  | INFO | 136582-instance-450.txt
+2020-12-17 11:56:35,267.267  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2473.78 . Actual value: 0.0
+2020-12-17 11:56:35,491.491  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:35,492.492  | VALIDATOR  | INFO | 136582-instance-50.txt
+2020-12-17 11:56:35,492.492  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 284.79 . Actual value: 0.0
+2020-12-17 11:56:35,713.713  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:35,714.714  | VALIDATOR  | INFO | 136582-instance-500.txt
+2020-12-17 11:56:35,720.720  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2710.62 . Actual value: 0.0
+2020-12-17 11:56:35,983.983  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:35,983.983  | VALIDATOR  | INFO | 136684-instance-100.txt
+2020-12-17 11:56:35,984.984  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 102.91 . Actual value: 0.0
+2020-12-17 11:56:36,202.202  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:36,202.202  | VALIDATOR  | INFO | 136684-instance-150.txt
+2020-12-17 11:56:36,203.203  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 145.8 . Actual value: 0.0
+2020-12-17 11:56:36,428.428  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:36,428.428  | VALIDATOR  | INFO | 136684-instance-200.txt
+2020-12-17 11:56:36,429.429  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 173.06 . Actual value: 0.0
+2020-12-17 11:56:36,694.694  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:36,694.694  | VALIDATOR  | INFO | 136684-instance-250.txt
+2020-12-17 11:56:36,695.695  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 219.47 . Actual value: 0.0
+2020-12-17 11:56:36,895.895  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:36,895.895  | VALIDATOR  | INFO | 136684-instance-300.txt
+2020-12-17 11:56:36,897.897  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 278.48 . Actual value: 0.0
+2020-12-17 11:56:37,097.97  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:37,097.97  | VALIDATOR  | INFO | 136684-instance-350.txt
+2020-12-17 11:56:37,099.99  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 342.93 . Actual value: 0.0
+2020-12-17 11:56:37,313.313  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:37,314.314  | VALIDATOR  | INFO | 136684-instance-400.txt
+2020-12-17 11:56:37,316.316  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 376.33 . Actual value: 0.0
+2020-12-17 11:56:37,626.626  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:37,626.626  | VALIDATOR  | INFO | 136684-instance-450.txt
+2020-12-17 11:56:37,629.629  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 426.08 . Actual value: 0.0
+2020-12-17 11:56:37,813.813  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:37,814.814  | VALIDATOR  | INFO | 136684-instance-50.txt
+2020-12-17 11:56:37,814.814  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 62.45 . Actual value: 0.0
+2020-12-17 11:56:38,024.24  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:38,024.24  | VALIDATOR  | INFO | 136684-instance-500.txt
+2020-12-17 11:56:38,029.29  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 467.33 . Actual value: 0.0
+2020-12-17 11:56:38,227.227  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:38,227.227  | VALIDATOR  | INFO | 136701-instance-100.txt
+2020-12-17 11:56:38,227.227  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 562.34 . Actual value: 0.0
+2020-12-17 11:56:38,471.471  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:38,472.472  | VALIDATOR  | INFO | 136701-instance-150.txt
+2020-12-17 11:56:38,472.472  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 909.83 . Actual value: 0.0
+2020-12-17 11:56:38,693.693  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:38,693.693  | VALIDATOR  | INFO | 136701-instance-200.txt
+2020-12-17 11:56:38,694.694  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1253.32 . Actual value: 0.0
+2020-12-17 11:56:39,018.18  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:39,018.18  | VALIDATOR  | INFO | 136701-instance-250.txt
+2020-12-17 11:56:39,020.20  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1390.37 . Actual value: 0.0
+2020-12-17 11:56:39,348.348  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:39,348.348  | VALIDATOR  | INFO | 136701-instance-300.txt
+2020-12-17 11:56:39,351.351  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1725.58 . Actual value: 0.0
+2020-12-17 11:56:39,582.582  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:39,582.582  | VALIDATOR  | INFO | 136701-instance-350.txt
+2020-12-17 11:56:39,585.585  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1992.05 . Actual value: 0.0
+2020-12-17 11:56:39,878.878  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:39,878.878  | VALIDATOR  | INFO | 136701-instance-400.txt
+2020-12-17 11:56:39,881.881  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2198.85 . Actual value: 0.0
+2020-12-17 11:56:40,097.97  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:40,097.97  | VALIDATOR  | INFO | 136701-instance-450.txt
+2020-12-17 11:56:40,100.100  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2449.44 . Actual value: 0.0
+2020-12-17 11:56:40,326.326  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:40,326.326  | VALIDATOR  | INFO | 136701-instance-50.txt
+2020-12-17 11:56:40,327.327  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 313.81 . Actual value: 0.0
+2020-12-17 11:56:40,530.530  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:40,530.530  | VALIDATOR  | INFO | 136701-instance-500.txt
+2020-12-17 11:56:40,535.535  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2739.83 . Actual value: 0.0
+2020-12-17 11:56:40,743.743  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:40,743.743  | VALIDATOR  | INFO | 136711-instance-100.txt
+2020-12-17 11:56:40,762.762  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 217.18 . Actual value: 0.0
+2020-12-17 11:56:40,938.938  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:40,938.938  | VALIDATOR  | INFO | 136711-instance-150.txt
+2020-12-17 11:56:40,938.938  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 304.75 . Actual value: 0.0
+2020-12-17 11:56:41,180.180  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:41,180.180  | VALIDATOR  | INFO | 136711-instance-200.txt
+2020-12-17 11:56:41,182.182  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 443.91 . Actual value: 0.0
+2020-12-17 11:56:41,482.482  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:41,482.482  | VALIDATOR  | INFO | 136711-instance-250.txt
+2020-12-17 11:56:41,485.485  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 487.0 . Actual value: 0.0
+2020-12-17 11:56:41,934.934  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:41,934.934  | VALIDATOR  | INFO | 136711-instance-300.txt
+2020-12-17 11:56:41,939.939  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 642.8 . Actual value: 0.0
+2020-12-17 11:56:42,467.467  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:42,468.468  | VALIDATOR  | INFO | 136711-instance-350.txt
+2020-12-17 11:56:42,472.472  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 673.33 . Actual value: 0.0
+2020-12-17 11:56:42,780.780  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:42,781.781  | VALIDATOR  | INFO | 136711-instance-400.txt
+2020-12-17 11:56:42,785.785  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 825.46 . Actual value: 0.0
+2020-12-17 11:56:43,094.94  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:43,095.95  | VALIDATOR  | INFO | 136711-instance-450.txt
+2020-12-17 11:56:43,100.100  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 963.26 . Actual value: 0.0
+2020-12-17 11:56:43,443.443  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:43,444.444  | VALIDATOR  | INFO | 136711-instance-50.txt
+2020-12-17 11:56:43,445.445  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 111.86 . Actual value: 0.0
+2020-12-17 11:56:43,905.905  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:43,906.906  | VALIDATOR  | INFO | 136711-instance-500.txt
+2020-12-17 11:56:43,916.916  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1054.28 . Actual value: 0.0
+2020-12-17 11:56:44,459.459  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:44,460.460  | VALIDATOR  | INFO | 136773-instance-100.txt
+2020-12-17 11:56:44,461.461  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 511.51 . Actual value: 0.0
+2020-12-17 11:56:44,876.876  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:44,876.876  | VALIDATOR  | INFO | 136773-instance-150.txt
+2020-12-17 11:56:44,878.878  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 718.62 . Actual value: 0.0
+2020-12-17 11:56:45,357.357  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:45,357.357  | VALIDATOR  | INFO | 136773-instance-200.txt
+2020-12-17 11:56:45,360.360  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1005.56 . Actual value: 0.0
+2020-12-17 11:56:45,801.801  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:45,801.801  | VALIDATOR  | INFO | 136773-instance-250.txt
+2020-12-17 11:56:45,807.807  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1230.14 . Actual value: 0.0
+2020-12-17 11:56:46,256.256  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:46,257.257  | VALIDATOR  | INFO | 136773-instance-300.txt
+2020-12-17 11:56:46,262.262  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1454.47 . Actual value: 0.0
+2020-12-17 11:56:46,786.786  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:46,786.786  | VALIDATOR  | INFO | 136773-instance-350.txt
+2020-12-17 11:56:46,793.793  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1589.37 . Actual value: 0.0
+2020-12-17 11:56:47,318.318  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:47,318.318  | VALIDATOR  | INFO | 136773-instance-400.txt
+2020-12-17 11:56:47,323.323  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1826.9 . Actual value: 0.0
+2020-12-17 11:56:47,792.792  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:47,793.793  | VALIDATOR  | INFO | 136773-instance-450.txt
+2020-12-17 11:56:47,804.804  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2063.43 . Actual value: 0.0
+2020-12-17 11:56:48,266.266  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:48,267.267  | VALIDATOR  | INFO | 136773-instance-50.txt
+2020-12-17 11:56:48,268.268  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 279.1 . Actual value: 0.0
+2020-12-17 11:56:48,762.762  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 11:56:48,763.763  | VALIDATOR  | INFO | 136773-instance-500.txt
+2020-12-17 11:56:48,776.776  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2290.88 . Actual value: 0.0
+2020-12-17 12:05:19,291.291  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:19,291.291  | VALIDATOR  | INFO | 132244-instance-100.txt
+2020-12-17 12:05:19,292.292  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 225.34 . Actual value: 0.0
+2020-12-17 12:05:19,589.589  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:19,589.589  | VALIDATOR  | INFO | 132244-instance-150.txt
+2020-12-17 12:05:19,591.591  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 453.63 . Actual value: 0.0
+2020-12-17 12:05:20,009.9  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:20,010.10  | VALIDATOR  | INFO | 132244-instance-200.txt
+2020-12-17 12:05:20,012.12  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 340.63 . Actual value: 0.0
+2020-12-17 12:05:20,438.438  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:20,439.439  | VALIDATOR  | INFO | 132244-instance-250.txt
+2020-12-17 12:05:20,444.444  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 374.06 . Actual value: 0.0
+2020-12-17 12:05:20,971.971  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:20,972.972  | VALIDATOR  | INFO | 132244-instance-300.txt
+2020-12-17 12:05:20,976.976  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 671.31 . Actual value: 0.0
+2020-12-17 12:05:21,421.421  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:21,422.422  | VALIDATOR  | INFO | 132244-instance-350.txt
+2020-12-17 12:05:21,427.427  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 615.1 . Actual value: 0.0
+2020-12-17 12:05:21,897.897  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:21,898.898  | VALIDATOR  | INFO | 132244-instance-400.txt
+2020-12-17 12:05:21,904.904  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 816.31 . Actual value: 0.0
+2020-12-17 12:05:22,353.353  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:22,354.354  | VALIDATOR  | INFO | 132244-instance-450.txt
+2020-12-17 12:05:22,361.361  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 940.52 . Actual value: 0.0
+2020-12-17 12:05:22,857.857  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:22,857.857  | VALIDATOR  | INFO | 132244-instance-50.txt
+2020-12-17 12:05:22,876.876  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 147.75 . Actual value: 0.0
+2020-12-17 12:05:23,416.416  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:23,416.416  | VALIDATOR  | INFO | 132244-instance-500.txt
+2020-12-17 12:05:23,427.427  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1193.75 . Actual value: 0.0
+2020-12-17 12:05:23,848.848  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:23,848.848  | VALIDATOR  | INFO | 136676-instance-100.txt
+2020-12-17 12:05:23,850.850  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1157.27 . Actual value: 0.0
+2020-12-17 12:05:24,334.334  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:24,335.335  | VALIDATOR  | INFO | 136676-instance-150.txt
+2020-12-17 12:05:24,336.336  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1651.79 . Actual value: 0.0
+2020-12-17 12:05:24,864.864  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:24,864.864  | VALIDATOR  | INFO | 136676-instance-200.txt
+2020-12-17 12:05:24,866.866  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1680.37 . Actual value: 0.0
+2020-12-17 12:05:25,401.401  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:25,402.402  | VALIDATOR  | INFO | 136676-instance-250.txt
+2020-12-17 12:05:25,405.405  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2401.12 . Actual value: 0.0
+2020-12-17 12:05:25,803.803  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:25,804.804  | VALIDATOR  | INFO | 136676-instance-300.txt
+2020-12-17 12:05:25,808.808  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2904.26 . Actual value: 0.0
+2020-12-17 12:05:26,291.291  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:26,292.292  | VALIDATOR  | INFO | 136676-instance-350.txt
+2020-12-17 12:05:26,296.296  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 3420.92 . Actual value: 0.0
+2020-12-17 12:05:26,715.715  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:26,716.716  | VALIDATOR  | INFO | 136676-instance-400.txt
+2020-12-17 12:05:26,722.722  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 3738.81 . Actual value: 0.0
+2020-12-17 12:05:27,229.229  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:27,230.230  | VALIDATOR  | INFO | 136676-instance-450.txt
+2020-12-17 12:05:27,238.238  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 4281.88 . Actual value: 0.0
+2020-12-17 12:05:27,731.731  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:27,731.731  | VALIDATOR  | INFO | 136676-instance-50.txt
+2020-12-17 12:05:27,732.732  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 415.39 . Actual value: 0.0
+2020-12-17 12:05:28,218.218  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:28,219.219  | VALIDATOR  | INFO | 136676-instance-500.txt
+2020-12-17 12:05:28,231.231  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 4774.26 . Actual value: 0.0
+2020-12-17 12:05:28,696.696  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:28,696.696  | VALIDATOR  | INFO | 136724-instance-100.txt
+2020-12-17 12:05:28,697.697  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 277.27 . Actual value: 0.0
+2020-12-17 12:05:29,233.233  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:29,234.234  | VALIDATOR  | INFO | 136724-instance-150.txt
+2020-12-17 12:05:29,236.236  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 357.33 . Actual value: 0.0
+2020-12-17 12:05:29,668.668  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:29,668.668  | VALIDATOR  | INFO | 136724-instance-200.txt
+2020-12-17 12:05:29,670.670  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 501.86 . Actual value: 0.0
+2020-12-17 12:05:30,042.42  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:30,043.43  | VALIDATOR  | INFO | 136724-instance-250.txt
+2020-12-17 12:05:30,045.45  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 617.5 . Actual value: 0.0
+2020-12-17 12:05:30,394.394  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:30,395.395  | VALIDATOR  | INFO | 136724-instance-300.txt
+2020-12-17 12:05:30,398.398  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 732.78 . Actual value: 0.0
+2020-12-17 12:05:30,703.703  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:30,704.704  | VALIDATOR  | INFO | 136724-instance-350.txt
+2020-12-17 12:05:30,709.709  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 803.76 . Actual value: 0.0
+2020-12-17 12:05:30,976.976  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:30,976.976  | VALIDATOR  | INFO | 136724-instance-400.txt
+2020-12-17 12:05:30,980.980  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 885.7 . Actual value: 0.0
+2020-12-17 12:05:31,235.235  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:31,235.235  | VALIDATOR  | INFO | 136724-instance-450.txt
+2020-12-17 12:05:31,240.240  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1061.43 . Actual value: 0.0
+2020-12-17 12:05:31,490.490  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:31,490.490  | VALIDATOR  | INFO | 136724-instance-50.txt
+2020-12-17 12:05:31,491.491  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 134.5 . Actual value: 0.0
+2020-12-17 12:05:31,779.779  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:31,779.779  | VALIDATOR  | INFO | 136724-instance-500.txt
+2020-12-17 12:05:31,786.786  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1111.63 . Actual value: 0.0
+2020-12-17 12:05:32,052.52  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:32,052.52  | VALIDATOR  | INFO | 136736-instance-100.txt
+2020-12-17 12:05:32,053.53  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 436.04 . Actual value: 0.0
+2020-12-17 12:05:32,313.313  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:32,313.313  | VALIDATOR  | INFO | 136736-instance-150.txt
+2020-12-17 12:05:32,314.314  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 729.06 . Actual value: 0.0
+2020-12-17 12:05:32,577.577  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:32,578.578  | VALIDATOR  | INFO | 136736-instance-200.txt
+2020-12-17 12:05:32,579.579  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 955.96 . Actual value: 0.0
+2020-12-17 12:05:32,857.857  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:32,857.857  | VALIDATOR  | INFO | 136736-instance-250.txt
+2020-12-17 12:05:32,859.859  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1159.31 . Actual value: 0.0
+2020-12-17 12:05:33,262.262  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:33,262.262  | VALIDATOR  | INFO | 136736-instance-300.txt
+2020-12-17 12:05:33,265.265  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1253.87 . Actual value: 0.0
+2020-12-17 12:05:33,570.570  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:33,570.570  | VALIDATOR  | INFO | 136736-instance-350.txt
+2020-12-17 12:05:33,574.574  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1550.16 . Actual value: 0.0
+2020-12-17 12:05:33,882.882  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:33,883.883  | VALIDATOR  | INFO | 136736-instance-400.txt
+2020-12-17 12:05:33,887.887  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1770.27 . Actual value: 0.0
+2020-12-17 12:05:34,277.277  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:34,277.277  | VALIDATOR  | INFO | 136736-instance-450.txt
+2020-12-17 12:05:34,282.282  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1986.23 . Actual value: 0.0
+2020-12-17 12:05:34,590.590  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:34,591.591  | VALIDATOR  | INFO | 136736-instance-50.txt
+2020-12-17 12:05:34,591.591  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 258.46 . Actual value: 0.0
+2020-12-17 12:05:34,895.895  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:34,896.896  | VALIDATOR  | INFO | 136736-instance-500.txt
+2020-12-17 12:05:34,903.903  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 2195.35 . Actual value: 0.0
+2020-12-17 12:05:35,269.269  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:35,270.270  | VALIDATOR  | INFO | 136767-instance-100.txt
+2020-12-17 12:05:35,271.271  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 81.21 . Actual value: 0.0
+2020-12-17 12:05:35,561.561  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:35,561.561  | VALIDATOR  | INFO | 136767-instance-150.txt
+2020-12-17 12:05:35,562.562  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 149.7 . Actual value: 0.0
+2020-12-17 12:05:35,863.863  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:35,863.863  | VALIDATOR  | INFO | 136767-instance-200.txt
+2020-12-17 12:05:35,865.865  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 214.37 . Actual value: 0.0
+2020-12-17 12:05:36,139.139  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:36,139.139  | VALIDATOR  | INFO | 136767-instance-250.txt
+2020-12-17 12:05:36,141.141  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 224.6 . Actual value: 0.0
+2020-12-17 12:05:36,413.413  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:36,413.413  | VALIDATOR  | INFO | 136767-instance-300.txt
+2020-12-17 12:05:36,416.416  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 313.0 . Actual value: 0.0
+2020-12-17 12:05:36,691.691  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:36,692.692  | VALIDATOR  | INFO | 136767-instance-350.txt
+2020-12-17 12:05:36,695.695  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 359.09 . Actual value: 0.0
+2020-12-17 12:05:36,972.972  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:36,973.973  | VALIDATOR  | INFO | 136767-instance-400.txt
+2020-12-17 12:05:36,977.977  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 399.17 . Actual value: 0.0
+2020-12-17 12:05:37,270.270  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:37,271.271  | VALIDATOR  | INFO | 136767-instance-450.txt
+2020-12-17 12:05:37,275.275  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 488.42 . Actual value: 0.0
+2020-12-17 12:05:37,546.546  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:37,546.546  | VALIDATOR  | INFO | 136767-instance-50.txt
+2020-12-17 12:05:37,546.546  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 63.42 . Actual value: 0.0
+2020-12-17 12:05:37,824.824  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:37,824.824  | VALIDATOR  | INFO | 136767-instance-500.txt
+2020-12-17 12:05:37,831.831  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 500.43 . Actual value: 0.0
+2020-12-17 12:05:38,101.101  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:38,101.101  | VALIDATOR  | INFO | 136790-instance-100.txt
+2020-12-17 12:05:38,102.102  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 373.75 . Actual value: 0.0
+2020-12-17 12:05:38,357.357  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:38,357.357  | VALIDATOR  | INFO | 136790-instance-150.txt
+2020-12-17 12:05:38,358.358  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 379.41 . Actual value: 0.0
+2020-12-17 12:05:38,617.617  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:38,617.617  | VALIDATOR  | INFO | 136790-instance-200.txt
+2020-12-17 12:05:38,618.618  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 490.72 . Actual value: 0.0
+2020-12-17 12:05:38,853.853  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:38,854.854  | VALIDATOR  | INFO | 136790-instance-250.txt
+2020-12-17 12:05:38,856.856  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 652.55 . Actual value: 0.0
+2020-12-17 12:05:39,081.81  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:39,081.81  | VALIDATOR  | INFO | 136790-instance-300.txt
+2020-12-17 12:05:39,084.84  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 795.86 . Actual value: 0.0
+2020-12-17 12:05:39,313.313  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:39,314.314  | VALIDATOR  | INFO | 136790-instance-350.txt
+2020-12-17 12:05:39,317.317  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 819.81 . Actual value: 0.0
+2020-12-17 12:05:39,544.544  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:39,544.544  | VALIDATOR  | INFO | 136790-instance-400.txt
+2020-12-17 12:05:39,548.548  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 946.55 . Actual value: 0.0
+2020-12-17 12:05:39,805.805  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:39,805.805  | VALIDATOR  | INFO | 136790-instance-450.txt
+2020-12-17 12:05:39,809.809  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1213.43 . Actual value: 0.0
+2020-12-17 12:05:40,042.42  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:40,042.42  | VALIDATOR  | INFO | 136790-instance-50.txt
+2020-12-17 12:05:40,042.42  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 162.94 . Actual value: 0.0
+2020-12-17 12:05:40,314.314  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:40,314.314  | VALIDATOR  | INFO | 136790-instance-500.txt
+2020-12-17 12:05:40,338.338  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 1267.51 . Actual value: 0.0
+2020-12-17 12:05:40,573.573  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:40,573.573  | VALIDATOR  | INFO | 136829-instance-100.txt
+2020-12-17 12:05:40,574.574  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 123.12 . Actual value: 0.0
+2020-12-17 12:05:40,842.842  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:40,842.842  | VALIDATOR  | INFO | 136829-instance-150.txt
+2020-12-17 12:05:40,843.843  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 144.78 . Actual value: 0.0
+2020-12-17 12:05:41,148.148  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:41,149.149  | VALIDATOR  | INFO | 136829-instance-200.txt
+2020-12-17 12:05:41,151.151  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 213.98 . Actual value: 0.0
+2020-12-17 12:05:41,426.426  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:41,426.426  | VALIDATOR  | INFO | 136829-instance-250.txt
+2020-12-17 12:05:41,428.428  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 220.83 . Actual value: 0.0
+2020-12-17 12:05:41,717.717  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:41,718.718  | VALIDATOR  | INFO | 136829-instance-300.txt
+2020-12-17 12:05:41,720.720  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 259.96 . Actual value: 0.0
+2020-12-17 12:05:42,053.53  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:42,053.53  | VALIDATOR  | INFO | 136829-instance-350.txt
+2020-12-17 12:05:42,057.57  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 360.37 . Actual value: 0.0
+2020-12-17 12:05:42,334.334  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:42,334.334  | VALIDATOR  | INFO | 136829-instance-400.txt
+2020-12-17 12:05:42,338.338  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 421.76 . Actual value: 0.0
+2020-12-17 12:05:42,626.626  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:42,627.627  | VALIDATOR  | INFO | 136829-instance-450.txt
+2020-12-17 12:05:42,631.631  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 480.19 . Actual value: 0.0
+2020-12-17 12:05:42,901.901  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:42,902.902  | VALIDATOR  | INFO | 136829-instance-50.txt
+2020-12-17 12:05:42,902.902  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 69.54 . Actual value: 0.0
+2020-12-17 12:05:43,163.163  | VALIDATOR  | INFO | ------------------------------------------------
+
+2020-12-17 12:05:43,164.164  | VALIDATOR  | INFO | 136829-instance-500.txt
+2020-12-17 12:05:43,171.171  | VALIDATOR  | INFO | ERROR ! Invalid criteria value !!! Correct criteria value: 543.86 . Actual value: 0.0
+2021-01-07 12:18:47,505.505  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:47,505.505  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-07 12:18:47,506.506  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:47,972.972  | VALIDATOR  | INFO | --------------- Czas algorytmu: 466070
+2021-01-07 12:18:47,975.975  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-07 12:18:48,251.251  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:48,251.251  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-07 12:18:48,252.252  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:48,668.668  | VALIDATOR  | INFO | --------------- Czas algorytmu: 415326
+2021-01-07 12:18:48,669.669  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-07 12:18:48,911.911  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:48,911.911  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-07 12:18:48,912.912  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:49,322.322  | VALIDATOR  | INFO | --------------- Czas algorytmu: 410109
+2021-01-07 12:18:49,323.323  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-07 12:18:49,585.585  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:49,586.586  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-07 12:18:49,586.586  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:49,986.986  | VALIDATOR  | INFO | --------------- Czas algorytmu: 398886
+2021-01-07 12:18:49,989.989  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-07 12:18:50,237.237  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:50,237.237  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-07 12:18:50,238.238  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:50,628.628  | VALIDATOR  | INFO | --------------- Czas algorytmu: 389461
+2021-01-07 12:18:50,630.630  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-07 12:18:50,897.897  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:50,897.897  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-07 12:18:50,898.898  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:51,293.293  | VALIDATOR  | INFO | --------------- Czas algorytmu: 394929
+2021-01-07 12:18:51,295.295  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-07 12:18:51,528.528  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:51,529.529  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-07 12:18:51,529.529  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:52,019.19  | VALIDATOR  | INFO | --------------- Czas algorytmu: 488422
+2021-01-07 12:18:52,021.21  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-07 12:18:52,291.291  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:52,291.291  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-07 12:18:52,293.293  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:52,747.747  | VALIDATOR  | INFO | --------------- Czas algorytmu: 453499
+2021-01-07 12:18:52,750.750  | VALIDATOR  | ERROR | ERROR ! There are non unique tasks in result file.
+2021-01-07 12:18:53,040.40  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:53,041.41  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-07 12:18:53,041.41  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:53,339.339  | VALIDATOR  | INFO | --------------- Czas algorytmu: 297848
+2021-01-07 12:18:53,339.339  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-07 12:18:53,556.556  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:53,556.556  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-07 12:18:53,557.557  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-07 12:18:54,059.59  | VALIDATOR  | INFO | --------------- Czas algorytmu: 502510
+2021-01-07 12:18:54,062.62  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-07 12:18:54,322.322  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:54,323.323  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-07 12:18:54,323.323  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:55,097.97  | VALIDATOR  | INFO | --------------- Czas algorytmu: 774792
+2021-01-07 12:18:55,098.98  | VALIDATOR  | INFO | CORRECT  Actual value: 29.03
+2021-01-07 12:18:55,325.325  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:55,326.326  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-07 12:18:55,327.327  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:55,826.826  | VALIDATOR  | INFO | --------------- Czas algorytmu: 499249
+2021-01-07 12:18:55,827.827  | VALIDATOR  | INFO | CORRECT  Actual value: 33.1
+2021-01-07 12:18:56,085.85  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:56,085.85  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-07 12:18:56,086.86  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:56,542.542  | VALIDATOR  | INFO | --------------- Czas algorytmu: 455343
+2021-01-07 12:18:56,543.543  | VALIDATOR  | INFO | CORRECT  Actual value: 55.68
+2021-01-07 12:18:56,794.794  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:56,794.794  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-07 12:18:56,795.795  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:57,347.347  | VALIDATOR  | INFO | --------------- Czas algorytmu: 550736
+2021-01-07 12:18:57,349.349  | VALIDATOR  | INFO | CORRECT  Actual value: 137.06
+2021-01-07 12:18:57,621.621  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:57,622.622  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-07 12:18:57,622.622  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:58,190.190  | VALIDATOR  | INFO | --------------- Czas algorytmu: 568296
+2021-01-07 12:18:58,192.192  | VALIDATOR  | INFO | CORRECT  Actual value: 111.65
+2021-01-07 12:18:58,439.439  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:58,439.439  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-07 12:18:58,440.440  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:58,880.880  | VALIDATOR  | INFO | --------------- Czas algorytmu: 440092
+2021-01-07 12:18:58,882.882  | VALIDATOR  | INFO | CORRECT  Actual value: 175.28
+2021-01-07 12:18:59,134.134  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:18:59,135.135  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-07 12:18:59,135.135  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:18:59,643.643  | VALIDATOR  | INFO | --------------- Czas algorytmu: 508125
+2021-01-07 12:18:59,646.646  | VALIDATOR  | INFO | CORRECT  Actual value: 65.4
+2021-01-07 12:19:00,005.5  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:00,006.6  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-07 12:19:00,010.10  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:19:00,444.444  | VALIDATOR  | INFO | --------------- Czas algorytmu: 434462
+2021-01-07 12:19:00,447.447  | VALIDATOR  | INFO | CORRECT  Actual value: 128.68
+2021-01-07 12:19:00,682.682  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:00,682.682  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-07 12:19:00,682.682  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:19:01,152.152  | VALIDATOR  | INFO | --------------- Czas algorytmu: 469093
+2021-01-07 12:19:01,152.152  | VALIDATOR  | INFO | CORRECT  Actual value: 9.96
+2021-01-07 12:19:01,387.387  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:01,387.387  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-07 12:19:01,388.388  | VALIDATOR  | INFO | 136736-algorithm.exe
+2021-01-07 12:19:01,828.828  | VALIDATOR  | INFO | --------------- Czas algorytmu: 439398
+2021-01-07 12:19:01,832.832  | VALIDATOR  | INFO | CORRECT  Actual value: 249.51
+2021-01-07 12:19:02,110.110  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:02,112.112  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-07 12:19:02,112.112  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:02,745.745  | VALIDATOR  | INFO | --------------- Czas algorytmu: 633010
+2021-01-07 12:19:02,745.745  | VALIDATOR  | INFO | CORRECT  Actual value: 2.28
+2021-01-07 12:19:03,071.71  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:03,071.71  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-07 12:19:03,072.72  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:03,598.598  | VALIDATOR  | INFO | --------------- Czas algorytmu: 524770
+2021-01-07 12:19:03,599.599  | VALIDATOR  | INFO | CORRECT  Actual value: 1.15
+2021-01-07 12:19:03,821.821  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:03,822.822  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-07 12:19:03,822.822  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:04,418.418  | VALIDATOR  | INFO | --------------- Czas algorytmu: 596318
+2021-01-07 12:19:04,419.419  | VALIDATOR  | INFO | CORRECT  Actual value: 1.16
+2021-01-07 12:19:04,674.674  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:04,675.675  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-07 12:19:04,675.675  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:05,177.177  | VALIDATOR  | INFO | --------------- Czas algorytmu: 501964
+2021-01-07 12:19:05,178.178  | VALIDATOR  | INFO | CORRECT  Actual value: 2.45
+2021-01-07 12:19:05,455.455  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:05,456.456  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-07 12:19:05,456.456  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:05,995.995  | VALIDATOR  | INFO | --------------- Czas algorytmu: 538420
+2021-01-07 12:19:05,996.996  | VALIDATOR  | INFO | CORRECT  Actual value: 0.79
+2021-01-07 12:19:06,253.253  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:06,253.253  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-07 12:19:06,254.254  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:06,824.824  | VALIDATOR  | INFO | --------------- Czas algorytmu: 570663
+2021-01-07 12:19:06,826.826  | VALIDATOR  | INFO | CORRECT  Actual value: 0.46
+2021-01-07 12:19:07,056.56  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:07,056.56  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-07 12:19:07,057.57  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:07,655.655  | VALIDATOR  | INFO | --------------- Czas algorytmu: 598440
+2021-01-07 12:19:07,658.658  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-07 12:19:07,917.917  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:07,917.917  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-07 12:19:07,918.918  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:08,487.487  | VALIDATOR  | INFO | --------------- Czas algorytmu: 568572
+2021-01-07 12:19:08,490.490  | VALIDATOR  | INFO | CORRECT  Actual value: 1.4
+2021-01-07 12:19:08,728.728  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:08,728.728  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-07 12:19:08,728.728  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:09,212.212  | VALIDATOR  | INFO | --------------- Czas algorytmu: 482686
+2021-01-07 12:19:09,213.213  | VALIDATOR  | INFO | CORRECT  Actual value: 9.01
+2021-01-07 12:19:09,446.446  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:09,446.446  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-07 12:19:09,447.447  | VALIDATOR  | INFO | 136773-algorithm.exe
+2021-01-07 12:19:10,073.73  | VALIDATOR  | INFO | --------------- Czas algorytmu: 625183
+2021-01-07 12:19:10,076.76  | VALIDATOR  | INFO | CORRECT  Actual value: 1.28
+2021-01-07 12:19:10,333.333  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:10,333.333  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-07 12:19:10,334.334  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:10,866.866  | VALIDATOR  | INFO | --------------- Czas algorytmu: 531459
+2021-01-07 12:19:10,867.867  | VALIDATOR  | INFO | CORRECT  Actual value: 2.27
+2021-01-07 12:19:11,153.153  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:11,153.153  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-07 12:19:11,154.154  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:11,790.790  | VALIDATOR  | INFO | --------------- Czas algorytmu: 635269
+2021-01-07 12:19:11,791.791  | VALIDATOR  | INFO | CORRECT  Actual value: 0.72
+2021-01-07 12:19:12,043.43  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:12,044.44  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-07 12:19:12,044.44  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:12,490.490  | VALIDATOR  | INFO | --------------- Czas algorytmu: 445752
+2021-01-07 12:19:12,491.491  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-07 12:19:12,752.752  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:12,752.752  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-07 12:19:12,752.752  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:13,264.264  | VALIDATOR  | INFO | --------------- Czas algorytmu: 510661
+2021-01-07 12:19:13,265.265  | VALIDATOR  | INFO | CORRECT  Actual value: 2.13
+2021-01-07 12:19:13,531.531  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:13,532.532  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-07 12:19:13,532.532  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:14,028.28  | VALIDATOR  | INFO | --------------- Czas algorytmu: 495955
+2021-01-07 12:19:14,030.30  | VALIDATOR  | INFO | CORRECT  Actual value: 0.65
+2021-01-07 12:19:14,302.302  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:14,302.302  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-07 12:19:14,303.303  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:14,927.927  | VALIDATOR  | INFO | --------------- Czas algorytmu: 622572
+2021-01-07 12:19:14,929.929  | VALIDATOR  | INFO | CORRECT  Actual value: 0.19
+2021-01-07 12:19:15,187.187  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:15,188.188  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-07 12:19:15,189.189  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:15,718.718  | VALIDATOR  | INFO | --------------- Czas algorytmu: 528276
+2021-01-07 12:19:15,721.721  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-07 12:19:16,006.6  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:16,007.7  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-07 12:19:16,008.8  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:16,625.625  | VALIDATOR  | INFO | --------------- Czas algorytmu: 616017
+2021-01-07 12:19:16,628.628  | VALIDATOR  | INFO | CORRECT  Actual value: 1.48
+2021-01-07 12:19:16,861.861  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:16,862.862  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-07 12:19:16,862.862  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:17,355.355  | VALIDATOR  | INFO | --------------- Czas algorytmu: 492969
+2021-01-07 12:19:17,356.356  | VALIDATOR  | INFO | CORRECT  Actual value: 0.94
+2021-01-07 12:19:17,636.636  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-07 12:19:17,636.636  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-07 12:19:17,638.638  | VALIDATOR  | INFO | 136829-algorithm.exe
+2021-01-07 12:19:18,586.586  | VALIDATOR  | INFO | --------------- Czas algorytmu: 948910
+2021-01-07 12:19:18,595.595  | VALIDATOR  | INFO | CORRECT  Actual value: 1.55
+2021-01-13 12:11:54,575.575  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:54,575.575  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:11:54,575.575  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:55,070.70  | VALIDATOR  | INFO | --------------- Czas algorytmu: 495003
+2021-01-13 12:11:55,070.70  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:11:55,409.409  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:55,409.409  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:11:55,416.416  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:55,845.845  | VALIDATOR  | INFO | --------------- Czas algorytmu: 428691
+2021-01-13 12:11:55,845.845  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:11:56,240.240  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:56,240.240  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:11:56,246.246  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:56,686.686  | VALIDATOR  | INFO | --------------- Czas algorytmu: 440689
+2021-01-13 12:11:56,686.686  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:11:56,978.978  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:56,978.978  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:11:56,983.983  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:57,414.414  | VALIDATOR  | INFO | --------------- Czas algorytmu: 431206
+2021-01-13 12:11:57,414.414  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:11:57,756.756  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:57,756.756  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:11:57,759.759  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:58,399.399  | VALIDATOR  | INFO | --------------- Czas algorytmu: 640274
+2021-01-13 12:11:58,399.399  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:11:58,807.807  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:58,807.807  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:11:58,807.807  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:11:59,317.317  | VALIDATOR  | INFO | --------------- Czas algorytmu: 509828
+2021-01-13 12:11:59,317.317  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:11:59,651.651  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:11:59,651.651  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:11:59,651.651  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:12:00,273.273  | VALIDATOR  | INFO | --------------- Czas algorytmu: 622191
+2021-01-13 12:12:00,273.273  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:12:00,673.673  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:12:00,673.673  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:12:00,690.690  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:12:01,251.251  | VALIDATOR  | INFO | --------------- Czas algorytmu: 561033
+2021-01-13 12:12:01,267.267  | VALIDATOR  | ERROR | ERROR ! There are non unique tasks in result file.
+2021-01-13 12:12:01,635.635  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:12:01,635.635  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:12:01,635.635  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:12:02,075.75  | VALIDATOR  | INFO | --------------- Czas algorytmu: 439957
+2021-01-13 12:12:02,075.75  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:12:02,405.405  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:12:02,405.405  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:12:02,418.418  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:12:03,029.29  | VALIDATOR  | INFO | --------------- Czas algorytmu: 611831
+2021-01-13 12:12:03,029.29  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:13:30,646.646  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:30,646.646  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:13:30,646.646  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:31,082.82  | VALIDATOR  | INFO | --------------- Czas algorytmu: 435853
+2021-01-13 12:13:31,082.82  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:13:31,383.383  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:31,383.383  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:13:31,399.399  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:31,758.758  | VALIDATOR  | INFO | --------------- Czas algorytmu: 358750
+2021-01-13 12:13:31,758.758  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:13:32,042.42  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:32,042.42  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:13:32,042.42  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:32,479.479  | VALIDATOR  | INFO | --------------- Czas algorytmu: 436797
+2021-01-13 12:13:32,479.479  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:13:32,759.759  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:32,759.759  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:13:32,759.759  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:33,203.203  | VALIDATOR  | INFO | --------------- Czas algorytmu: 443587
+2021-01-13 12:13:33,203.203  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:13:33,529.529  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:33,529.529  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:13:33,529.529  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:34,087.87  | VALIDATOR  | INFO | --------------- Czas algorytmu: 558121
+2021-01-13 12:13:34,087.87  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:13:34,420.420  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:34,420.420  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:13:34,428.428  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:34,895.895  | VALIDATOR  | INFO | --------------- Czas algorytmu: 466265
+2021-01-13 12:13:34,895.895  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:13:35,309.309  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:35,309.309  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:13:35,309.309  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:35,791.791  | VALIDATOR  | INFO | --------------- Czas algorytmu: 482755
+2021-01-13 12:13:35,791.791  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:13:36,091.91  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:36,091.91  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:13:36,107.107  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:36,492.492  | VALIDATOR  | INFO | --------------- Czas algorytmu: 384846
+2021-01-13 12:13:36,792.792  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:36,792.792  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:13:36,792.792  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:37,176.176  | VALIDATOR  | INFO | --------------- Czas algorytmu: 383211
+2021-01-13 12:13:37,192.192  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:13:37,440.440  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:13:37,440.440  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:13:37,456.456  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:13:37,890.890  | VALIDATOR  | INFO | --------------- Czas algorytmu: 434422
+2021-01-13 12:13:37,890.890  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:15:23,564.564  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:23,564.564  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:15:23,564.564  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:23,948.948  | VALIDATOR  | INFO | --------------- Czas algorytmu: 383411
+2021-01-13 12:15:23,948.948  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:15:24,228.228  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:24,228.228  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:15:24,228.228  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:24,665.665  | VALIDATOR  | INFO | --------------- Czas algorytmu: 436604
+2021-01-13 12:15:24,665.665  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:15:25,000.0  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:25,000.0  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:15:25,000.0  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:25,468.468  | VALIDATOR  | INFO | --------------- Czas algorytmu: 468002
+2021-01-13 12:15:25,468.468  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:15:25,779.779  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:25,779.779  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:15:25,779.779  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:26,195.195  | VALIDATOR  | INFO | --------------- Czas algorytmu: 415880
+2021-01-13 12:15:26,195.195  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:15:26,552.552  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:26,552.552  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:15:26,552.552  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:26,910.910  | VALIDATOR  | INFO | --------------- Czas algorytmu: 358773
+2021-01-13 12:15:26,927.927  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:15:27,295.295  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:27,295.295  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:15:27,295.295  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:27,745.745  | VALIDATOR  | INFO | --------------- Czas algorytmu: 449530
+2021-01-13 12:15:27,745.745  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:15:28,112.112  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:28,112.112  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:15:28,112.112  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:28,495.495  | VALIDATOR  | INFO | --------------- Czas algorytmu: 383056
+2021-01-13 12:15:28,511.511  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:15:28,795.795  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:28,795.795  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:15:28,795.795  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:29,244.244  | VALIDATOR  | INFO | --------------- Czas algorytmu: 448569
+2021-01-13 12:15:29,512.512  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:29,512.512  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:15:29,512.512  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:29,839.839  | VALIDATOR  | INFO | --------------- Czas algorytmu: 326356
+2021-01-13 12:15:29,839.839  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:15:30,120.120  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:30,120.120  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:15:30,120.120  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:30,462.462  | VALIDATOR  | INFO | --------------- Czas algorytmu: 341812
+2021-01-13 12:15:30,462.462  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:15:52,485.485  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:52,485.485  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:15:52,485.485  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:52,795.795  | VALIDATOR  | INFO | --------------- Czas algorytmu: 309964
+2021-01-13 12:15:52,795.795  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:15:53,070.70  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:53,070.70  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:15:53,070.70  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:53,339.339  | VALIDATOR  | INFO | --------------- Czas algorytmu: 268975
+2021-01-13 12:15:53,339.339  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:15:53,603.603  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:53,603.603  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:15:53,603.603  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:53,928.928  | VALIDATOR  | INFO | --------------- Czas algorytmu: 324787
+2021-01-13 12:15:53,928.928  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:15:54,193.193  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:54,193.193  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:15:54,193.193  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:54,557.557  | VALIDATOR  | INFO | --------------- Czas algorytmu: 363648
+2021-01-13 12:15:54,573.573  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:15:54,833.833  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:54,833.833  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:15:54,833.833  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:55,211.211  | VALIDATOR  | INFO | --------------- Czas algorytmu: 378791
+2021-01-13 12:15:55,211.211  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:15:55,459.459  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:55,459.459  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:15:55,461.461  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:55,811.811  | VALIDATOR  | INFO | --------------- Czas algorytmu: 350301
+2021-01-13 12:15:55,811.811  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:15:56,080.80  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:56,080.80  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:15:56,080.80  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:56,411.411  | VALIDATOR  | INFO | --------------- Czas algorytmu: 331212
+2021-01-13 12:15:56,411.411  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:15:56,712.712  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:56,712.712  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:15:56,712.712  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:57,090.90  | VALIDATOR  | INFO | --------------- Czas algorytmu: 378061
+2021-01-13 12:15:57,379.379  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:57,379.379  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:15:57,379.379  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:57,695.695  | VALIDATOR  | INFO | --------------- Czas algorytmu: 316576
+2021-01-13 12:15:57,695.695  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:15:58,012.12  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:15:58,012.12  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:15:58,012.12  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:15:58,462.462  | VALIDATOR  | INFO | --------------- Czas algorytmu: 449798
+2021-01-13 12:15:58,462.462  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:16:46,500.500  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:46,500.500  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:16:46,500.500  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:46,865.865  | VALIDATOR  | INFO | --------------- Czas algorytmu: 365154
+2021-01-13 12:16:46,865.865  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:16:47,122.122  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:47,122.122  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:16:47,122.122  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:47,523.523  | VALIDATOR  | INFO | --------------- Czas algorytmu: 400752
+2021-01-13 12:16:47,523.523  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:16:47,854.854  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:47,854.854  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:16:47,854.854  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:48,296.296  | VALIDATOR  | INFO | --------------- Czas algorytmu: 441233
+2021-01-13 12:16:48,296.296  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:16:48,568.568  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:48,568.568  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:16:48,568.568  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:48,983.983  | VALIDATOR  | INFO | --------------- Czas algorytmu: 414912
+2021-01-13 12:16:48,983.983  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:16:49,379.379  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:49,379.379  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:16:49,379.379  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:49,864.864  | VALIDATOR  | INFO | --------------- Czas algorytmu: 485117
+2021-01-13 12:16:49,864.864  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:16:50,171.171  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:50,171.171  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:16:50,171.171  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:50,572.572  | VALIDATOR  | INFO | --------------- Czas algorytmu: 401636
+2021-01-13 12:16:50,572.572  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:16:50,873.873  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:50,873.873  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:16:50,873.873  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:51,262.262  | VALIDATOR  | INFO | --------------- Czas algorytmu: 388928
+2021-01-13 12:16:51,262.262  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:16:51,573.573  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:51,573.573  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:16:51,573.573  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:52,024.24  | VALIDATOR  | INFO | --------------- Czas algorytmu: 451356
+2021-01-13 12:16:52,340.340  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:52,340.340  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:16:52,340.340  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:52,694.694  | VALIDATOR  | INFO | --------------- Czas algorytmu: 353387
+2021-01-13 12:16:52,694.694  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:16:52,959.959  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:16:52,959.959  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:16:52,959.959  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:16:53,474.474  | VALIDATOR  | INFO | --------------- Czas algorytmu: 514781
+2021-01-13 12:16:53,474.474  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:18:01,339.339  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:01,339.339  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:18:01,339.339  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:01,689.689  | VALIDATOR  | INFO | --------------- Czas algorytmu: 350220
+2021-01-13 12:18:01,689.689  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:18:01,965.965  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:01,965.965  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:18:01,965.965  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:02,324.324  | VALIDATOR  | INFO | --------------- Czas algorytmu: 359761
+2021-01-13 12:18:02,324.324  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:18:02,599.599  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:02,599.599  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:18:02,599.599  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:02,925.925  | VALIDATOR  | INFO | --------------- Czas algorytmu: 325718
+2021-01-13 12:18:02,925.925  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:18:03,182.182  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:03,182.182  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:18:03,182.182  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:03,526.526  | VALIDATOR  | INFO | --------------- Czas algorytmu: 343786
+2021-01-13 12:18:03,526.526  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:18:03,828.828  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:03,829.829  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:18:03,829.829  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:04,146.146  | VALIDATOR  | INFO | --------------- Czas algorytmu: 316920
+2021-01-13 12:18:04,146.146  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:18:04,428.428  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:04,428.428  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:18:04,428.428  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:04,796.796  | VALIDATOR  | INFO | --------------- Czas algorytmu: 368163
+2021-01-13 12:18:04,811.811  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:18:05,111.111  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:05,111.111  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:18:05,111.111  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:05,428.428  | VALIDATOR  | INFO | --------------- Czas algorytmu: 313283
+2021-01-13 12:18:05,431.431  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:18:05,697.697  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:05,697.697  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:18:05,697.697  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:06,064.64  | VALIDATOR  | INFO | --------------- Czas algorytmu: 367248
+2021-01-13 12:18:06,349.349  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:06,349.349  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:18:06,349.349  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:06,709.709  | VALIDATOR  | INFO | --------------- Czas algorytmu: 360028
+2021-01-13 12:18:06,709.709  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:18:06,995.995  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:06,995.995  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:18:06,995.995  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:07,326.326  | VALIDATOR  | INFO | --------------- Czas algorytmu: 330964
+2021-01-13 12:18:07,326.326  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:18:14,352.352  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:14,352.352  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:18:14,352.352  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:14,690.690  | VALIDATOR  | INFO | --------------- Czas algorytmu: 337759
+2021-01-13 12:18:14,690.690  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:18:14,975.975  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:14,975.975  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:18:14,975.975  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:15,394.394  | VALIDATOR  | INFO | --------------- Czas algorytmu: 419393
+2021-01-13 12:18:15,394.394  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:18:15,707.707  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:15,707.707  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:18:15,707.707  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:16,092.92  | VALIDATOR  | INFO | --------------- Czas algorytmu: 384990
+2021-01-13 12:18:16,098.98  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:18:16,400.400  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:16,400.400  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:18:16,400.400  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:16,783.783  | VALIDATOR  | INFO | --------------- Czas algorytmu: 382428
+2021-01-13 12:18:16,783.783  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:18:17,094.94  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:17,094.94  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:18:17,097.97  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:17,399.399  | VALIDATOR  | INFO | --------------- Czas algorytmu: 301487
+2021-01-13 12:18:17,399.399  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:18:17,665.665  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:17,666.666  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:18:17,666.666  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:17,997.997  | VALIDATOR  | INFO | --------------- Czas algorytmu: 331370
+2021-01-13 12:18:17,997.997  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:18:18,282.282  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:18,282.282  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:18:18,282.282  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:18,643.643  | VALIDATOR  | INFO | --------------- Czas algorytmu: 361417
+2021-01-13 12:18:18,643.643  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:18:18,915.915  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:18,915.915  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:18:18,915.915  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:19,182.182  | VALIDATOR  | INFO | --------------- Czas algorytmu: 267083
+2021-01-13 12:18:19,449.449  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:19,449.449  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:18:19,449.449  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:19,831.831  | VALIDATOR  | INFO | --------------- Czas algorytmu: 381805
+2021-01-13 12:18:19,831.831  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:18:20,115.115  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:20,115.115  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:18:20,115.115  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:20,535.535  | VALIDATOR  | INFO | --------------- Czas algorytmu: 419483
+2021-01-13 12:18:20,535.535  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:18:33,732.732  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:33,732.732  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:18:33,732.732  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:34,137.137  | VALIDATOR  | INFO | --------------- Czas algorytmu: 405645
+2021-01-13 12:18:34,137.137  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:18:34,440.440  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:34,448.448  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:18:34,448.448  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:34,823.823  | VALIDATOR  | INFO | --------------- Czas algorytmu: 374893
+2021-01-13 12:18:34,823.823  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:18:35,139.139  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:35,139.139  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:18:35,139.139  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:35,470.470  | VALIDATOR  | INFO | --------------- Czas algorytmu: 331553
+2021-01-13 12:18:35,470.470  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:18:35,741.741  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:35,756.756  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:18:35,756.756  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:36,140.140  | VALIDATOR  | INFO | --------------- Czas algorytmu: 383794
+2021-01-13 12:18:36,140.140  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:18:36,425.425  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:36,425.425  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:18:36,425.425  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:36,880.880  | VALIDATOR  | INFO | --------------- Czas algorytmu: 455685
+2021-01-13 12:18:36,880.880  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:18:37,215.215  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:37,215.215  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:18:37,215.215  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:37,682.682  | VALIDATOR  | INFO | --------------- Czas algorytmu: 466838
+2021-01-13 12:18:37,682.682  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:18:38,016.16  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:38,016.16  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:18:38,016.16  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:38,532.532  | VALIDATOR  | INFO | --------------- Czas algorytmu: 516385
+2021-01-13 12:18:38,532.532  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:18:38,828.828  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:38,828.828  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:18:38,828.828  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:39,329.329  | VALIDATOR  | INFO | --------------- Czas algorytmu: 500808
+2021-01-13 12:18:39,593.593  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:39,593.593  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:18:39,593.593  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:39,981.981  | VALIDATOR  | INFO | --------------- Czas algorytmu: 388241
+2021-01-13 12:18:39,981.981  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:18:40,251.251  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:18:40,251.251  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:18:40,251.251  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:18:40,832.832  | VALIDATOR  | INFO | --------------- Czas algorytmu: 580962
+2021-01-13 12:18:40,833.833  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 12:19:25,088.88  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:19:25,088.88  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:19:25,088.88  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:19:25,505.505  | VALIDATOR  | INFO | --------------- Czas algorytmu: 416587
+2021-01-13 12:20:21,485.485  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:21,485.485  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 12:20:21,485.485  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:21,827.827  | VALIDATOR  | INFO | --------------- Czas algorytmu: 341809
+2021-01-13 12:20:21,827.827  | VALIDATOR  | INFO | CORRECT  Actual value: 3.05
+2021-01-13 12:20:22,129.129  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:22,129.129  | VALIDATOR  | INFO | 136819-instance-150.txt
+2021-01-13 12:20:22,129.129  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:22,444.444  | VALIDATOR  | INFO | --------------- Czas algorytmu: 314617
+2021-01-13 12:20:22,444.444  | VALIDATOR  | INFO | CORRECT  Actual value: 0.53
+2021-01-13 12:20:22,697.697  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:22,713.713  | VALIDATOR  | INFO | 136819-instance-200.txt
+2021-01-13 12:20:22,713.713  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:23,045.45  | VALIDATOR  | INFO | --------------- Czas algorytmu: 332310
+2021-01-13 12:20:23,061.61  | VALIDATOR  | INFO | CORRECT  Actual value: 0.62
+2021-01-13 12:20:23,301.301  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:23,301.301  | VALIDATOR  | INFO | 136819-instance-250.txt
+2021-01-13 12:20:23,301.301  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:23,668.668  | VALIDATOR  | INFO | --------------- Czas algorytmu: 367436
+2021-01-13 12:20:23,668.668  | VALIDATOR  | INFO | CORRECT  Actual value: 2.22
+2021-01-13 12:20:23,951.951  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:23,952.952  | VALIDATOR  | INFO | 136819-instance-300.txt
+2021-01-13 12:20:23,952.952  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:24,317.317  | VALIDATOR  | INFO | --------------- Czas algorytmu: 365586
+2021-01-13 12:20:24,317.317  | VALIDATOR  | INFO | CORRECT  Actual value: 0.77
+2021-01-13 12:20:24,602.602  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:24,602.602  | VALIDATOR  | INFO | 136819-instance-350.txt
+2021-01-13 12:20:24,602.602  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:25,000.0  | VALIDATOR  | INFO | --------------- Czas algorytmu: 398180
+2021-01-13 12:20:25,000.0  | VALIDATOR  | INFO | CORRECT  Actual value: 0.13
+2021-01-13 12:20:25,251.251  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:25,251.251  | VALIDATOR  | INFO | 136819-instance-400.txt
+2021-01-13 12:20:25,251.251  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:25,734.734  | VALIDATOR  | INFO | --------------- Czas algorytmu: 482984
+2021-01-13 12:20:25,734.734  | VALIDATOR  | INFO | CORRECT  Actual value: 0.03
+2021-01-13 12:20:26,002.2  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:26,002.2  | VALIDATOR  | INFO | 136819-instance-450.txt
+2021-01-13 12:20:26,002.2  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:26,351.351  | VALIDATOR  | INFO | --------------- Czas algorytmu: 349329
+2021-01-13 12:20:26,351.351  | VALIDATOR  | INFO | CORRECT  Actual value: 2.0
+2021-01-13 12:20:26,635.635  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:26,635.635  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 12:20:26,635.635  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:27,035.35  | VALIDATOR  | INFO | --------------- Czas algorytmu: 400093
+2021-01-13 12:20:27,035.35  | VALIDATOR  | INFO | CORRECT  Actual value: 0.68
+2021-01-13 12:20:27,319.319  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 12:20:27,319.319  | VALIDATOR  | INFO | 136819-instance-500.txt
+2021-01-13 12:20:27,319.319  | VALIDATOR  | INFO | 136684-algorithm.exe
+2021-01-13 12:20:27,803.803  | VALIDATOR  | INFO | --------------- Czas algorytmu: 484506
+2021-01-13 12:20:27,820.820  | VALIDATOR  | INFO | CORRECT  Actual value: 1.76
+2021-01-13 15:55:50,183.183  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 15:55:50,184.184  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 15:55:50,184.184  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 15:55:51,466.466  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1281750
+2021-01-13 15:55:51,466.466  | VALIDATOR  | INFO | CORRECT  Actual value: 2.49
+2021-01-13 15:55:51,804.804  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 15:55:51,804.804  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 15:55:51,804.804  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 15:55:52,909.909  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1103453
+2021-01-13 15:55:52,909.909  | VALIDATOR  | INFO | CORRECT  Actual value: 0.64
+2021-01-13 16:00:20,112.112  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:20,112.112  | VALIDATOR  | INFO | 136790-instance-100.txt
+2021-01-13 16:00:20,113.113  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:21,340.340  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1226844
+2021-01-13 16:00:21,340.340  | VALIDATOR  | INFO | CORRECT  Actual value: 132.3
+2021-01-13 16:00:21,636.636  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:21,636.636  | VALIDATOR  | INFO | 136790-instance-150.txt
+2021-01-13 16:00:21,637.637  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:22,773.773  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1135628
+2021-01-13 16:00:22,774.774  | VALIDATOR  | INFO | CORRECT  Actual value: 130.12
+2021-01-13 16:00:23,055.55  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:23,055.55  | VALIDATOR  | INFO | 136790-instance-200.txt
+2021-01-13 16:00:23,056.56  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:24,182.182  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1126360
+2021-01-13 16:00:24,183.183  | VALIDATOR  | INFO | CORRECT  Actual value: 181.02
+2021-01-13 16:00:24,472.472  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:24,472.472  | VALIDATOR  | INFO | 136790-instance-250.txt
+2021-01-13 16:00:24,473.473  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:25,630.630  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1157056
+2021-01-13 16:00:25,632.632  | VALIDATOR  | INFO | CORRECT  Actual value: 144.62
+2021-01-13 16:00:25,922.922  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:25,923.923  | VALIDATOR  | INFO | 136790-instance-50.txt
+2021-01-13 16:00:25,923.923  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:27,163.163  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1239572
+2021-01-13 16:00:27,164.164  | VALIDATOR  | INFO | CORRECT  Actual value: 43.81
+2021-01-13 16:00:27,482.482  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:27,482.482  | VALIDATOR  | INFO | 136819-instance-100.txt
+2021-01-13 16:00:27,483.483  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:28,682.682  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1198807
+2021-01-13 16:00:28,682.682  | VALIDATOR  | INFO | CORRECT  Actual value: 2.49
+2021-01-13 16:00:28,982.982  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:00:28,983.983  | VALIDATOR  | INFO | 136819-instance-50.txt
+2021-01-13 16:00:28,983.983  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:00:30,277.277  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1293764
+2021-01-13 16:00:30,277.277  | VALIDATOR  | INFO | CORRECT  Actual value: 0.64
+2021-01-13 16:05:09,793.793  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:05:09,793.793  | VALIDATOR  | INFO | 136790-instance-200.txt
+2021-01-13 16:05:09,794.794  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:05:10,872.872  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1077735
+2021-01-13 16:05:10,873.873  | VALIDATOR  | INFO | CORRECT  Actual value: 181.02
+2021-01-13 16:05:11,138.138  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 16:05:11,138.138  | VALIDATOR  | INFO | 136790-instance-250.txt
+2021-01-13 16:05:11,139.139  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 16:05:12,365.365  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1226015
+2021-01-13 16:05:12,367.367  | VALIDATOR  | INFO | CORRECT  Actual value: 144.62
+2021-01-13 17:49:25,075.75  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:25,075.75  | VALIDATOR  | INFO | 136790-instance-100.txt
+2021-01-13 17:49:25,075.75  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:26,453.453  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1369985
+2021-01-13 17:49:26,454.454  | VALIDATOR  | INFO | CORRECT  Actual value: 132.3
+2021-01-13 17:49:26,793.793  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:26,793.793  | VALIDATOR  | INFO | 136790-instance-150.txt
+2021-01-13 17:49:26,793.793  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:28,053.53  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1259642
+2021-01-13 17:49:28,053.53  | VALIDATOR  | INFO | CORRECT  Actual value: 130.12
+2021-01-13 17:49:28,433.433  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:28,433.433  | VALIDATOR  | INFO | 136790-instance-200.txt
+2021-01-13 17:49:28,433.433  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:29,703.703  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1270154
+2021-01-13 17:49:29,704.704  | VALIDATOR  | INFO | CORRECT  Actual value: 181.02
+2021-01-13 17:49:30,003.3  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:30,003.3  | VALIDATOR  | INFO | 136790-instance-250.txt
+2021-01-13 17:49:30,003.3  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:31,205.205  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1191864
+2021-01-13 17:49:31,205.205  | VALIDATOR  | INFO | CORRECT  Actual value: 144.62
+2021-01-13 17:49:31,533.533  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:31,533.533  | VALIDATOR  | INFO | 136790-instance-300.txt
+2021-01-13 17:49:31,533.533  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:32,864.864  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1330147
+2021-01-13 17:49:32,864.864  | VALIDATOR  | INFO | CORRECT  Actual value: 242.13
+2021-01-13 17:49:33,203.203  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:33,203.203  | VALIDATOR  | INFO | 136790-instance-350.txt
+2021-01-13 17:49:33,203.203  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:34,385.385  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1181852
+2021-01-13 17:49:34,394.394  | VALIDATOR  | INFO | CORRECT  Actual value: 145.64
+2021-01-13 17:49:34,676.676  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:34,676.676  | VALIDATOR  | INFO | 136790-instance-400.txt
+2021-01-13 17:49:34,676.676  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:35,823.823  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1147233
+2021-01-13 17:49:35,834.834  | VALIDATOR  | INFO | CORRECT  Actual value: 183.18
+2021-01-13 17:49:36,144.144  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:36,148.148  | VALIDATOR  | INFO | 136790-instance-450.txt
+2021-01-13 17:49:36,148.148  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:37,514.514  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1365471
+2021-01-13 17:49:37,514.514  | VALIDATOR  | INFO | CORRECT  Actual value: 362.96
+2021-01-13 17:49:37,869.869  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:37,874.874  | VALIDATOR  | INFO | 136790-instance-50.txt
+2021-01-13 17:49:37,874.874  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:39,184.184  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1309867
+2021-01-13 17:49:39,184.184  | VALIDATOR  | INFO | CORRECT  Actual value: 43.81
+2021-01-13 17:49:39,510.510  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:49:39,510.510  | VALIDATOR  | INFO | 136790-instance-500.txt
+2021-01-13 17:49:39,510.510  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:49:40,864.864  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1353738
+2021-01-13 17:49:40,864.864  | VALIDATOR  | INFO | CORRECT  Actual value: 185.02
+2021-01-13 17:50:33,372.372  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:33,372.372  | VALIDATOR  | INFO | 136790-instance-100.txt
+2021-01-13 17:50:33,372.372  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:34,667.667  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1294846
+2021-01-13 17:50:34,667.667  | VALIDATOR  | INFO | CORRECT  Actual value: 59.38
+2021-01-13 17:50:34,967.967  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:34,967.967  | VALIDATOR  | INFO | 136790-instance-150.txt
+2021-01-13 17:50:34,967.967  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:36,082.82  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1114109
+2021-01-13 17:50:36,082.82  | VALIDATOR  | INFO | CORRECT  Actual value: 53.72
+2021-01-13 17:50:36,368.368  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:36,368.368  | VALIDATOR  | INFO | 136790-instance-200.txt
+2021-01-13 17:50:36,368.368  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:37,487.487  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1119790
+2021-01-13 17:50:37,487.487  | VALIDATOR  | INFO | CORRECT  Actual value: 52.12
+2021-01-13 17:50:37,788.788  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:37,788.788  | VALIDATOR  | INFO | 136790-instance-250.txt
+2021-01-13 17:50:37,788.788  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:38,998.998  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1210393
+2021-01-13 17:50:38,998.998  | VALIDATOR  | INFO | CORRECT  Actual value: 57.41
+2021-01-13 17:50:39,289.289  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:39,289.289  | VALIDATOR  | INFO | 136790-instance-300.txt
+2021-01-13 17:50:39,289.289  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:40,558.558  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1268972
+2021-01-13 17:50:40,558.558  | VALIDATOR  | INFO | CORRECT  Actual value: 113.97
+2021-01-13 17:50:40,863.863  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:40,863.863  | VALIDATOR  | INFO | 136790-instance-350.txt
+2021-01-13 17:50:40,863.863  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:42,088.88  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1225026
+2021-01-13 17:50:42,088.88  | VALIDATOR  | INFO | CORRECT  Actual value: 36.38
+2021-01-13 17:50:42,368.368  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:42,368.368  | VALIDATOR  | INFO | 136790-instance-400.txt
+2021-01-13 17:50:42,368.368  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:43,549.549  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1180342
+2021-01-13 17:50:43,549.549  | VALIDATOR  | INFO | CORRECT  Actual value: 46.89
+2021-01-13 17:50:43,838.838  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:43,838.838  | VALIDATOR  | INFO | 136790-instance-450.txt
+2021-01-13 17:50:43,838.838  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:45,030.30  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1192082
+2021-01-13 17:50:45,030.30  | VALIDATOR  | INFO | CORRECT  Actual value: 146.51
+2021-01-13 17:50:45,300.300  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:45,309.309  | VALIDATOR  | INFO | 136790-instance-50.txt
+2021-01-13 17:50:45,309.309  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:46,493.493  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1183746
+2021-01-13 17:50:46,493.493  | VALIDATOR  | INFO | CORRECT  Actual value: 54.19
+2021-01-13 17:50:46,779.779  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:50:46,779.779  | VALIDATOR  | INFO | 136790-instance-500.txt
+2021-01-13 17:50:46,779.779  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:50:47,988.988  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1209837
+2021-01-13 17:50:47,988.988  | VALIDATOR  | INFO | CORRECT  Actual value: 37.62
+2021-01-13 17:52:36,975.975  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:36,975.975  | VALIDATOR  | INFO | 136684-instance-100.txt
+2021-01-13 17:52:36,975.975  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:38,186.186  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1210931
+2021-01-13 17:52:38,186.186  | VALIDATOR  | INFO | CORRECT  Actual value: 28.47
+2021-01-13 17:52:38,465.465  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:38,465.465  | VALIDATOR  | INFO | 136684-instance-150.txt
+2021-01-13 17:52:38,465.465  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:39,655.655  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1189841
+2021-01-13 17:52:39,655.655  | VALIDATOR  | INFO | CORRECT  Actual value: 30.11
+2021-01-13 17:52:39,936.936  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:39,936.936  | VALIDATOR  | INFO | 136684-instance-200.txt
+2021-01-13 17:52:39,946.946  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:41,067.67  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1120815
+2021-01-13 17:52:41,067.67  | VALIDATOR  | INFO | CORRECT  Actual value: 23.22
+2021-01-13 17:52:41,336.336  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:41,336.336  | VALIDATOR  | INFO | 136684-instance-250.txt
+2021-01-13 17:52:41,341.341  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:42,577.577  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1235851
+2021-01-13 17:52:42,577.577  | VALIDATOR  | INFO | CORRECT  Actual value: 21.88
+2021-01-13 17:52:42,909.909  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:42,909.909  | VALIDATOR  | INFO | 136684-instance-300.txt
+2021-01-13 17:52:42,909.909  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:44,107.107  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1198454
+2021-01-13 17:52:44,107.107  | VALIDATOR  | INFO | CORRECT  Actual value: 20.27
+2021-01-13 17:52:44,397.397  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:44,397.397  | VALIDATOR  | INFO | 136684-instance-350.txt
+2021-01-13 17:52:44,397.397  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:45,656.656  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1259195
+2021-01-13 17:52:45,657.657  | VALIDATOR  | INFO | CORRECT  Actual value: 43.52
+2021-01-13 17:52:45,977.977  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:45,977.977  | VALIDATOR  | INFO | 136684-instance-400.txt
+2021-01-13 17:52:45,977.977  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:47,382.382  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1405666
+2021-01-13 17:52:47,386.386  | VALIDATOR  | INFO | CORRECT  Actual value: 23.25
+2021-01-13 17:52:47,687.687  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:47,687.687  | VALIDATOR  | INFO | 136684-instance-450.txt
+2021-01-13 17:52:47,687.687  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:48,969.969  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1281600
+2021-01-13 17:52:48,976.976  | VALIDATOR  | INFO | CORRECT  Actual value: 19.36
+2021-01-13 17:52:49,277.277  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:49,277.277  | VALIDATOR  | INFO | 136684-instance-50.txt
+2021-01-13 17:52:49,280.280  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:50,548.548  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1268011
+2021-01-13 17:52:50,548.548  | VALIDATOR  | INFO | CORRECT  Actual value: 23.19
+2021-01-13 17:52:50,841.841  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:50,841.841  | VALIDATOR  | INFO | 136684-instance-500.txt
+2021-01-13 17:52:50,841.841  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:52,237.237  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1395933
+2021-01-13 17:52:52,237.237  | VALIDATOR  | INFO | CORRECT  Actual value: 20.23
+2021-01-13 17:52:52,546.546  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:52,546.546  | VALIDATOR  | INFO | 136790-instance-100.txt
+2021-01-13 17:52:52,546.546  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:53,880.880  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1333845
+2021-01-13 17:52:53,880.880  | VALIDATOR  | INFO | CORRECT  Actual value: 59.38
+2021-01-13 17:52:54,156.156  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:54,156.156  | VALIDATOR  | INFO | 136790-instance-150.txt
+2021-01-13 17:52:54,156.156  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:55,451.451  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1294875
+2021-01-13 17:52:55,451.451  | VALIDATOR  | INFO | CORRECT  Actual value: 53.72
+2021-01-13 17:52:55,747.747  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:55,747.747  | VALIDATOR  | INFO | 136790-instance-200.txt
+2021-01-13 17:52:55,747.747  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:57,187.187  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1440294
+2021-01-13 17:52:57,187.187  | VALIDATOR  | INFO | CORRECT  Actual value: 52.12
+2021-01-13 17:52:57,487.487  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:57,487.487  | VALIDATOR  | INFO | 136790-instance-250.txt
+2021-01-13 17:52:57,487.487  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:52:58,849.849  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1362001
+2021-01-13 17:52:58,849.849  | VALIDATOR  | INFO | CORRECT  Actual value: 57.41
+2021-01-13 17:52:59,167.167  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:52:59,167.167  | VALIDATOR  | INFO | 136790-instance-300.txt
+2021-01-13 17:52:59,177.177  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:00,500.500  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1322454
+2021-01-13 17:53:00,500.500  | VALIDATOR  | INFO | CORRECT  Actual value: 113.97
+2021-01-13 17:53:00,792.792  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:53:00,792.792  | VALIDATOR  | INFO | 136790-instance-350.txt
+2021-01-13 17:53:00,797.797  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:02,161.161  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1364002
+2021-01-13 17:53:02,161.161  | VALIDATOR  | INFO | CORRECT  Actual value: 36.38
+2021-01-13 17:53:02,478.478  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:53:02,478.478  | VALIDATOR  | INFO | 136790-instance-400.txt
+2021-01-13 17:53:02,478.478  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:03,928.928  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1450558
+2021-01-13 17:53:03,928.928  | VALIDATOR  | INFO | CORRECT  Actual value: 46.89
+2021-01-13 17:53:04,207.207  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:53:04,207.207  | VALIDATOR  | INFO | 136790-instance-450.txt
+2021-01-13 17:53:04,207.207  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:05,694.694  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1487071
+2021-01-13 17:53:05,697.697  | VALIDATOR  | INFO | CORRECT  Actual value: 146.51
+2021-01-13 17:53:06,037.37  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:53:06,038.38  | VALIDATOR  | INFO | 136790-instance-50.txt
+2021-01-13 17:53:06,038.38  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:07,480.480  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1442727
+2021-01-13 17:53:07,480.480  | VALIDATOR  | INFO | CORRECT  Actual value: 54.19
+2021-01-13 17:53:07,789.789  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:53:07,789.789  | VALIDATOR  | INFO | 136790-instance-500.txt
+2021-01-13 17:53:07,789.789  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:53:09,168.168  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1378996
+2021-01-13 17:53:09,168.168  | VALIDATOR  | INFO | CORRECT  Actual value: 37.62
+2021-01-13 17:55:19,039.39  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:19,039.39  | VALIDATOR  | INFO | 136684-instance-100.txt
+2021-01-13 17:55:19,039.39  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:20,358.358  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1318928
+2021-01-13 17:55:20,358.358  | VALIDATOR  | INFO | CORRECT  Actual value: 28.47
+2021-01-13 17:55:20,718.718  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:20,718.718  | VALIDATOR  | INFO | 136684-instance-150.txt
+2021-01-13 17:55:20,718.718  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:22,166.166  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1448290
+2021-01-13 17:55:22,166.166  | VALIDATOR  | INFO | CORRECT  Actual value: 30.11
+2021-01-13 17:55:22,466.466  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:22,466.466  | VALIDATOR  | INFO | 136684-instance-200.txt
+2021-01-13 17:55:22,466.466  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:23,576.576  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1107477
+2021-01-13 17:55:23,576.576  | VALIDATOR  | INFO | CORRECT  Actual value: 23.22
+2021-01-13 17:55:23,858.858  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:23,858.858  | VALIDATOR  | INFO | 136684-instance-250.txt
+2021-01-13 17:55:23,858.858  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:25,097.97  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1238690
+2021-01-13 17:55:25,098.98  | VALIDATOR  | INFO | CORRECT  Actual value: 21.88
+2021-01-13 17:55:25,419.419  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:25,426.426  | VALIDATOR  | INFO | 136684-instance-300.txt
+2021-01-13 17:55:25,428.428  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:26,706.706  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1278521
+2021-01-13 17:55:26,706.706  | VALIDATOR  | INFO | CORRECT  Actual value: 20.27
+2021-01-13 17:55:26,998.998  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:26,998.998  | VALIDATOR  | INFO | 136684-instance-350.txt
+2021-01-13 17:55:26,998.998  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:28,379.379  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1380552
+2021-01-13 17:55:28,379.379  | VALIDATOR  | INFO | CORRECT  Actual value: 43.52
+2021-01-13 17:55:28,717.717  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:28,717.717  | VALIDATOR  | INFO | 136684-instance-400.txt
+2021-01-13 17:55:28,721.721  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:29,917.917  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1195850
+2021-01-13 17:55:29,917.917  | VALIDATOR  | INFO | CORRECT  Actual value: 23.25
+2021-01-13 17:55:30,227.227  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:30,227.227  | VALIDATOR  | INFO | 136684-instance-450.txt
+2021-01-13 17:55:30,227.227  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:31,398.398  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1171193
+2021-01-13 17:55:31,398.398  | VALIDATOR  | INFO | CORRECT  Actual value: 19.36
+2021-01-13 17:55:31,686.686  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:31,686.686  | VALIDATOR  | INFO | 136684-instance-50.txt
+2021-01-13 17:55:31,686.686  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:32,927.927  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1240449
+2021-01-13 17:55:32,927.927  | VALIDATOR  | INFO | CORRECT  Actual value: 23.19
+2021-01-13 17:55:33,247.247  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 17:55:33,247.247  | VALIDATOR  | INFO | 136684-instance-500.txt
+2021-01-13 17:55:33,247.247  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 17:55:34,439.439  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1192106
+2021-01-13 17:55:34,447.447  | VALIDATOR  | INFO | CORRECT  Actual value: 20.23
+2021-01-13 18:09:13,420.420  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:13,420.420  | VALIDATOR  | INFO | 136684-instance-100.txt
+2021-01-13 18:09:13,420.420  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:14,780.780  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1359907
+2021-01-13 18:09:14,780.780  | VALIDATOR  | INFO | CORRECT  Actual value: 14.8
+2021-01-13 18:09:15,081.81  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:15,081.81  | VALIDATOR  | INFO | 136684-instance-150.txt
+2021-01-13 18:09:15,090.90  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:16,212.212  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1122748
+2021-01-13 18:09:16,212.212  | VALIDATOR  | INFO | CORRECT  Actual value: 13.64
+2021-01-13 18:09:16,540.540  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:16,540.540  | VALIDATOR  | INFO | 136684-instance-200.txt
+2021-01-13 18:09:16,540.540  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:17,690.690  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1149944
+2021-01-13 18:09:17,690.690  | VALIDATOR  | INFO | CORRECT  Actual value: 10.92
+2021-01-13 18:09:18,000.0  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:18,000.0  | VALIDATOR  | INFO | 136684-instance-250.txt
+2021-01-13 18:09:18,000.0  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:19,300.300  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1299977
+2021-01-13 18:09:19,300.300  | VALIDATOR  | INFO | CORRECT  Actual value: 9.58
+2021-01-13 18:09:19,632.632  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:19,632.632  | VALIDATOR  | INFO | 136684-instance-300.txt
+2021-01-13 18:09:19,632.632  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:21,000.0  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1367603
+2021-01-13 18:09:21,000.0  | VALIDATOR  | INFO | CORRECT  Actual value: 14.08
+2021-01-13 18:09:21,300.300  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:21,300.300  | VALIDATOR  | INFO | 136684-instance-350.txt
+2021-01-13 18:09:21,300.300  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:22,520.520  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1219803
+2021-01-13 18:09:22,520.520  | VALIDATOR  | INFO | CORRECT  Actual value: 59.52
+2021-01-13 18:09:22,813.813  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:22,813.813  | VALIDATOR  | INFO | 136684-instance-400.txt
+2021-01-13 18:09:22,813.813  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:23,970.970  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1157508
+2021-01-13 18:09:23,970.970  | VALIDATOR  | INFO | CORRECT  Actual value: 33.57
+2021-01-13 18:09:24,281.281  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:24,281.281  | VALIDATOR  | INFO | 136684-instance-450.txt
+2021-01-13 18:09:24,281.281  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:25,563.563  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1281870
+2021-01-13 18:09:25,563.563  | VALIDATOR  | INFO | CORRECT  Actual value: 29.45
+2021-01-13 18:09:25,840.840  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:25,840.840  | VALIDATOR  | INFO | 136684-instance-50.txt
+2021-01-13 18:09:25,840.840  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:27,016.16  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1175378
+2021-01-13 18:09:27,016.16  | VALIDATOR  | INFO | CORRECT  Actual value: 14.81
+2021-01-13 18:09:27,291.291  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:09:27,291.291  | VALIDATOR  | INFO | 136684-instance-500.txt
+2021-01-13 18:09:27,291.291  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:09:28,559.559  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1268347
+2021-01-13 18:09:28,561.561  | VALIDATOR  | INFO | CORRECT  Actual value: 19.82
+2021-01-13 18:21:44,901.901  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:44,901.901  | VALIDATOR  | INFO | 136684-instance-100.txt
+2021-01-13 18:21:44,901.901  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:46,261.261  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1359984
+2021-01-13 18:21:46,261.261  | VALIDATOR  | INFO | CORRECT  Actual value: 16.84
+2021-01-13 18:21:46,549.549  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:46,549.549  | VALIDATOR  | INFO | 136684-instance-150.txt
+2021-01-13 18:21:46,549.549  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:47,719.719  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1170560
+2021-01-13 18:21:47,719.719  | VALIDATOR  | INFO | CORRECT  Actual value: 19.07
+2021-01-13 18:21:48,019.19  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:48,019.19  | VALIDATOR  | INFO | 136684-instance-200.txt
+2021-01-13 18:21:48,024.24  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:49,226.226  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1201719
+2021-01-13 18:21:49,228.228  | VALIDATOR  | INFO | CORRECT  Actual value: 15.3
+2021-01-13 18:21:49,529.529  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:49,529.529  | VALIDATOR  | INFO | 136684-instance-250.txt
+2021-01-13 18:21:49,529.529  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:50,849.849  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1320083
+2021-01-13 18:21:50,859.859  | VALIDATOR  | INFO | CORRECT  Actual value: 15.22
+2021-01-13 18:21:51,159.159  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:51,159.159  | VALIDATOR  | INFO | 136684-instance-300.txt
+2021-01-13 18:21:51,162.162  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:52,440.440  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1278891
+2021-01-13 18:21:52,440.440  | VALIDATOR  | INFO | CORRECT  Actual value: 16.41
+2021-01-13 18:21:52,754.754  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:52,754.754  | VALIDATOR  | INFO | 136684-instance-350.txt
+2021-01-13 18:21:52,754.754  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:54,029.29  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1275313
+2021-01-13 18:21:54,029.29  | VALIDATOR  | INFO | CORRECT  Actual value: 50.17
+2021-01-13 18:21:54,342.342  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:54,342.342  | VALIDATOR  | INFO | 136684-instance-400.txt
+2021-01-13 18:21:54,342.342  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:55,550.550  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1208854
+2021-01-13 18:21:55,561.561  | VALIDATOR  | INFO | CORRECT  Actual value: 21.99
+2021-01-13 18:21:55,899.899  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:55,899.899  | VALIDATOR  | INFO | 136684-instance-450.txt
+2021-01-13 18:21:55,899.899  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:57,190.190  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1290700
+2021-01-13 18:21:57,195.195  | VALIDATOR  | INFO | CORRECT  Actual value: 18.54
+2021-01-13 18:21:57,632.632  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:57,632.632  | VALIDATOR  | INFO | 136684-instance-50.txt
+2021-01-13 18:21:57,632.632  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:21:59,049.49  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1416951
+2021-01-13 18:21:59,049.49  | VALIDATOR  | INFO | CORRECT  Actual value: 15.2
+2021-01-13 18:21:59,451.451  | VALIDATOR  | INFO | ------------------------------------------------
+
+2021-01-13 18:21:59,451.451  | VALIDATOR  | INFO | 136684-instance-500.txt
+2021-01-13 18:21:59,451.451  | VALIDATOR  | INFO | 136819-algorithm.exe
+2021-01-13 18:22:00,814.814  | VALIDATOR  | INFO | --------------- Czas algorytmu: 1362868
+2021-01-13 18:22:00,819.819  | VALIDATOR  | INFO | CORRECT  Actual value: 20.23
