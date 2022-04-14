@@ -1,0 +1,8 @@
+logfile.log
+algorytmy.log
+136819-algorithm.spec
+build
+dist
+.idea
+algorithms/*solution*
+dane/*solution*
